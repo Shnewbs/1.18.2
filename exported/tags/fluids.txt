@@ -1,0 +1,3958 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 21, 2023, 11:05:13 AM
+
+#forge:plasma_sulfur
+- antimatter_shared:plasma_sulfur
+- antimatter_shared:flowing_plasma_sulfur
+
+#forge:plasma_helium
+- antimatter_shared:plasma_helium
+- antimatter_shared:flowing_plasma_helium
+
+#forge:nitration_mixture
+- antimatter_shared:liquid_nitration_mixture
+- antimatter_shared:flowing_liquid_nitration_mixture
+
+#forge:liquid_iodine
+- antimatter_shared:liquid_iodine
+- antimatter_shared:flowing_liquid_iodine
+
+#forge:actinium
+- antimatter_shared:liquid_actinium
+- antimatter_shared:flowing_liquid_actinium
+
+#forge:liquid_nickel
+- antimatter_shared:liquid_nickel
+- antimatter_shared:flowing_liquid_nickel
+
+#forge:astatine_215
+- antimatter_shared:liquid_astatine_215
+- antimatter_shared:flowing_liquid_astatine_215
+
+#tfc:any_drinkables
+- #tfc:drinkables
+- #tfc:any_infinite_water
+
+#forge:gas_sulfur_dioxide
+- antimatter_shared:gas_sulfur_dioxide
+- antimatter_shared:flowing_gas_sulfur_dioxide
+
+#forge:gas_neon
+- antimatter_shared:gas_neon
+- antimatter_shared:flowing_gas_neon
+
+#forge:astatine_217
+- antimatter_shared:liquid_astatine_217
+- antimatter_shared:flowing_liquid_astatine_217
+
+#forge:phosphoric_acid
+- antimatter_shared:liquid_phosphoric_acid
+- antimatter_shared:flowing_liquid_phosphoric_acid
+
+#forge:astatine_218
+- antimatter_shared:liquid_astatine_218
+- antimatter_shared:flowing_liquid_astatine_218
+
+#forge:astatine_219
+- antimatter_shared:liquid_astatine_219
+- antimatter_shared:flowing_liquid_astatine_219
+
+#forge:liquid_thallium
+- antimatter_shared:liquid_thallium
+- antimatter_shared:flowing_liquid_thallium
+
+#forge:lanthanum
+- antimatter_shared:liquid_lanthanum
+- antimatter_shared:flowing_liquid_lanthanum
+
+#forge:gas_wood_gas
+- antimatter_shared:gas_wood_gas
+- antimatter_shared:flowing_gas_wood_gas
+
+#forge:glyceryl
+- antimatter_shared:liquid_glyceryl
+- antimatter_shared:flowing_liquid_glyceryl
+
+#forge:steam
+- antimatter_shared:gas_steam
+- antimatter_shared:flowing_gas_steam
+
+#tfc:yellow_dye
+- tfc:yellow_dye
+- tfc:flowing_yellow_dye
+
+#forge:liquid_germanium
+- antimatter_shared:liquid_germanium
+- antimatter_shared:flowing_liquid_germanium
+
+#tfc:usable_in_sluice
+- #tfc:any_infinite_water
+
+#forge:polycaprolactam
+- antimatter_shared:liquid_polycaprolactam
+- antimatter_shared:flowing_liquid_polycaprolactam
+
+#forge:liquid_chloramine
+- antimatter_shared:liquid_chloramine
+- antimatter_shared:flowing_liquid_chloramine
+
+#forge:duranium
+- antimatter_shared:liquid_duranium
+- antimatter_shared:flowing_liquid_duranium
+
+#forge:liquid_isoprene
+- antimatter_shared:liquid_isoprene
+- antimatter_shared:flowing_liquid_isoprene
+
+#forge:uu_matter
+- antimatter_shared:liquid_uu_matter
+- antimatter_shared:flowing_liquid_uu_matter
+
+#forge:naphtha
+- antimatter_shared:liquid_naphtha
+- antimatter_shared:flowing_liquid_naphtha
+
+#forge:steam_cracked_naphtha
+- antimatter_shared:liquid_steam_cracked_naphtha
+- antimatter_shared:flowing_liquid_steam_cracked_naphtha
+
+#forge:liquid_uranium
+- antimatter_shared:liquid_uranium
+- antimatter_shared:flowing_liquid_uranium
+
+#forge:black_bronze
+- antimatter_shared:liquid_black_bronze
+- antimatter_shared:flowing_liquid_black_bronze
+
+#forge:hydro_cracked_ethylene
+- antimatter_shared:gas_hydro_cracked_ethylene
+- antimatter_shared:flowing_gas_hydro_cracked_ethylene
+
+#forge:ethanediol
+- antimatter_shared:liquid_ethanediol
+- antimatter_shared:flowing_liquid_ethanediol
+
+#forge:enriched_naquadah
+- antimatter_shared:liquid_enriched_naquadah
+- antimatter_shared:flowing_liquid_enriched_naquadah
+
+#tfc:rum
+- tfc:rum
+- tfc:flowing_rum
+
+#forge:noble_gases
+- antimatter_shared:gas_noble_gases
+- antimatter_shared:flowing_gas_noble_gases
+
+#forge:liquid_dichloroethane
+- antimatter_shared:liquid_dichloroethane
+- antimatter_shared:flowing_liquid_dichloroethane
+
+#forge:liquid_steel
+- antimatter_shared:liquid_steel
+- antimatter_shared:flowing_liquid_steel
+
+#forge:liquid_distilled_water
+- antimatter_shared:liquid_distilled_water
+- antimatter_shared:flowing_liquid_distilled_water
+
+#forge:gas_tetrafluoroethylene
+- antimatter_shared:gas_tetrafluoroethylene
+- antimatter_shared:flowing_gas_tetrafluoroethylene
+
+#tfc:light_blue_dye
+- tfc:light_blue_dye
+- tfc:flowing_light_blue_dye
+
+#forge:liquid_lead_zinc_solution
+- antimatter_shared:liquid_lead_zinc_solution
+- antimatter_shared:flowing_liquid_lead_zinc_solution
+
+#forge:ethane
+- antimatter_shared:gas_ethane
+- antimatter_shared:flowing_gas_ethane
+
+#forge:plasma_neon
+- antimatter_shared:plasma_neon
+- antimatter_shared:flowing_plasma_neon
+
+#forge:chloramine
+- antimatter_shared:liquid_chloramine
+- antimatter_shared:flowing_liquid_chloramine
+
+#forge:sulfuric_acid
+- antimatter_shared:liquid_sulfuric_acid
+- antimatter_shared:flowing_liquid_sulfuric_acid
+
+#forge:liquid_dysprosium
+- antimatter_shared:liquid_dysprosium
+- antimatter_shared:flowing_liquid_dysprosium
+
+#forge:liquid_lead
+- antimatter_shared:liquid_lead
+- antimatter_shared:flowing_liquid_lead
+
+#forge:rose_gold
+- antimatter_shared:liquid_rose_gold
+- antimatter_shared:flowing_liquid_rose_gold
+
+#tfc:usable_in_ingot_mold
+- #tfc:molten_metals
+
+#forge:liquid_sodium_persulfate
+- antimatter_shared:liquid_sodium_persulfate
+- antimatter_shared:flowing_liquid_sodium_persulfate
+
+#forge:rocket_fuel
+- antimatter_shared:liquid_rocket_fuel
+- antimatter_shared:flowing_liquid_rocket_fuel
+
+#forge:nitric_acid
+- antimatter_shared:liquid_nitric_acid
+- antimatter_shared:flowing_liquid_nitric_acid
+
+#forge:liquid_potassium
+- antimatter_shared:liquid_potassium
+- antimatter_shared:flowing_liquid_potassium
+
+#forge:wood_tar
+- antimatter_shared:liquid_wood_tar
+- antimatter_shared:flowing_liquid_wood_tar
+
+#forge:uranium_240_hexafluoride
+- antimatter_shared:gas_uranium_240_hexafluoride
+- antimatter_shared:flowing_gas_uranium_240_hexafluoride
+
+#forge:gas_ammonia
+- antimatter_shared:gas_ammonia
+- antimatter_shared:flowing_gas_ammonia
+
+#tfc:copper
+- tfc:metal/copper
+- tfc:metal/flowing_copper
+
+#forge:thorium_hexafluoride
+- antimatter_shared:gas_thorium_hexafluoride
+- antimatter_shared:flowing_gas_thorium_hexafluoride
+
+#forge:liquid_butanediol
+- antimatter_shared:liquid_butanediol
+- antimatter_shared:flowing_liquid_butanediol
+
+#tfc:black_bronze
+- tfc:metal/black_bronze
+- tfc:metal/flowing_black_bronze
+
+#forge:gallium
+- antimatter_shared:liquid_gallium
+- antimatter_shared:flowing_liquid_gallium
+
+#forge:liquid_gadolinium
+- antimatter_shared:liquid_gadolinium
+- antimatter_shared:flowing_liquid_gadolinium
+
+#forge:cobalt_brass
+- antimatter_shared:liquid_cobalt_brass
+- antimatter_shared:flowing_liquid_cobalt_brass
+
+#forge:gas_oxygen
+- antimatter_shared:gas_oxygen
+- antimatter_shared:flowing_gas_oxygen
+
+#forge:sodium_bicarbonate_solution
+- antimatter_shared:liquid_sodium_bicarbonate_solution
+- antimatter_shared:flowing_liquid_sodium_bicarbonate_solution
+
+#forge:gas_nitrogen_dioxide
+- antimatter_shared:gas_nitrogen_dioxide
+- antimatter_shared:flowing_gas_nitrogen_dioxide
+
+#forge:gas_fluorine
+- antimatter_shared:gas_fluorine
+- antimatter_shared:flowing_gas_fluorine
+
+#forge:chloroform
+- antimatter_shared:liquid_chloroform
+- antimatter_shared:flowing_liquid_chloroform
+
+#tfc:pig_iron
+- tfc:metal/pig_iron
+- tfc:metal/flowing_pig_iron
+
+#forge:liquid_hydro_cracked_naphtha
+- antimatter_shared:liquid_hydro_cracked_naphtha
+- antimatter_shared:flowing_liquid_hydro_cracked_naphtha
+
+#forge:liquid_ethanediol
+- antimatter_shared:liquid_ethanediol
+- antimatter_shared:flowing_liquid_ethanediol
+
+#forge:liquid_naquadah_alloy
+- antimatter_shared:liquid_naquadah_alloy
+- antimatter_shared:flowing_liquid_naquadah_alloy
+
+#forge:lithium
+- antimatter_shared:liquid_lithium
+- antimatter_shared:flowing_liquid_lithium
+
+#forge:butanediol
+- antimatter_shared:liquid_butanediol
+- antimatter_shared:flowing_liquid_butanediol
+
+#tfc:scribing_ink
+- tfc:black_dye
+
+#forge:diluted_hydrochloric_acid
+- antimatter_shared:liquid_diluted_hydrochloric_acid
+- antimatter_shared:flowing_liquid_diluted_hydrochloric_acid
+
+#tfc:rye_whiskey
+- tfc:rye_whiskey
+- tfc:flowing_rye_whiskey
+
+#forge:lpg
+- antimatter_shared:gas_lpg
+- antimatter_shared:flowing_gas_lpg
+
+#forge:gas_butadiene
+- antimatter_shared:gas_butadiene
+- antimatter_shared:flowing_gas_butadiene
+
+#forge:gadolinium
+- antimatter_shared:liquid_gadolinium
+- antimatter_shared:flowing_liquid_gadolinium
+
+#tfc:any_infinite_water
+- #tfc:any_fresh_water
+- tfc:salt_water
+- tfc:flowing_salt_water
+
+#forge:chrome
+- antimatter_shared:liquid_chrome
+- antimatter_shared:flowing_liquid_chrome
+
+#forge:tin_alloy
+- antimatter_shared:liquid_tin_alloy
+- antimatter_shared:flowing_liquid_tin_alloy
+
+#forge:chlorine
+- antimatter_shared:gas_chlorine
+- antimatter_shared:flowing_gas_chlorine
+
+#forge:liquid_propanediol
+- antimatter_shared:liquid_propanediol
+- antimatter_shared:flowing_liquid_propanediol
+
+#tfc:magenta_dye
+- tfc:magenta_dye
+- tfc:flowing_magenta_dye
+
+#forge:gas_chlorine
+- antimatter_shared:gas_chlorine
+- antimatter_shared:flowing_gas_chlorine
+
+#tfc:milk_vinegar
+- tfc:milk_vinegar
+- tfc:flowing_milk_vinegar
+
+#tfc:olive_oil_water
+- tfc:olive_oil_water
+- tfc:flowing_olive_oil_water
+
+#forge:gas_thorium_231_hexafluoride
+- antimatter_shared:gas_thorium_231_hexafluoride
+- antimatter_shared:flowing_gas_thorium_231_hexafluoride
+
+#forge:ultimet
+- antimatter_shared:liquid_ultimet
+- antimatter_shared:flowing_liquid_ultimet
+
+#forge:hot_coolant
+- antimatter_shared:liquid_hot_coolant
+- antimatter_shared:flowing_liquid_hot_coolant
+
+#forge:gas_steam_cracked_refinery_gas
+- antimatter_shared:gas_steam_cracked_refinery_gas
+- antimatter_shared:flowing_gas_steam_cracked_refinery_gas
+
+#forge:liquid_cobalt
+- antimatter_shared:liquid_cobalt
+- antimatter_shared:flowing_liquid_cobalt
+
+#forge:refinery_gas
+- antimatter_shared:gas_refinery_gas
+- antimatter_shared:flowing_gas_refinery_gas
+
+#forge:iridium
+- antimatter_shared:liquid_iridium
+- antimatter_shared:flowing_liquid_iridium
+
+#forge:propane
+- antimatter_shared:gas_propane
+- antimatter_shared:flowing_gas_propane
+
+#forge:butanol
+- antimatter_shared:liquid_butanol
+- antimatter_shared:flowing_liquid_butanol
+
+#forge:nichrome
+- antimatter_shared:liquid_nichrome
+- antimatter_shared:flowing_liquid_nichrome
+
+#forge:liquid_polonium_216
+- antimatter_shared:liquid_polonium_216
+- antimatter_shared:flowing_liquid_polonium_216
+
+#forge:liquid_polonium_215
+- antimatter_shared:liquid_polonium_215
+- antimatter_shared:flowing_liquid_polonium_215
+
+#forge:liquid_polonium_218
+- antimatter_shared:liquid_polonium_218
+- antimatter_shared:flowing_liquid_polonium_218
+
+#forge:uranium_232_hexafluoride
+- antimatter_shared:gas_uranium_232_hexafluoride
+- antimatter_shared:flowing_gas_uranium_232_hexafluoride
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:soldering_alloy
+- antimatter_shared:liquid_soldering_alloy
+- antimatter_shared:flowing_liquid_soldering_alloy
+
+#forge:liquid_polonium_211
+- antimatter_shared:liquid_polonium_211
+- antimatter_shared:flowing_liquid_polonium_211
+
+#forge:liquid_polonium_214
+- antimatter_shared:liquid_polonium_214
+- antimatter_shared:flowing_liquid_polonium_214
+
+#forge:liquid_polonium_213
+- antimatter_shared:liquid_polonium_213
+- antimatter_shared:flowing_liquid_polonium_213
+
+#forge:xenon
+- antimatter_shared:gas_xenon
+- antimatter_shared:flowing_gas_xenon
+- antimatter_shared:plasma_xenon
+- antimatter_shared:flowing_plasma_xenon
+
+#forge:liquid_stainless_steel
+- antimatter_shared:liquid_stainless_steel
+- antimatter_shared:flowing_liquid_stainless_steel
+
+#forge:hydro_cracked_light_fuel
+- antimatter_shared:liquid_hydro_cracked_light_fuel
+- antimatter_shared:flowing_liquid_hydro_cracked_light_fuel
+
+#forge:wood_vinegar
+- antimatter_shared:liquid_wood_vinegar
+- antimatter_shared:flowing_liquid_wood_vinegar
+
+#tfc:high_carbon_black_steel
+- tfc:metal/high_carbon_black_steel
+- tfc:metal/flowing_high_carbon_black_steel
+
+#forge:leaching_solution
+- antimatter_shared:liquid_leaching_solution
+- antimatter_shared:flowing_liquid_leaching_solution
+
+#forge:polyethylene
+- antimatter_shared:liquid_polyethylene
+- antimatter_shared:flowing_liquid_polyethylene
+
+#forge:wrought_iron
+- antimatter_shared:liquid_wrought_iron
+- antimatter_shared:flowing_liquid_wrought_iron
+
+#forge:vanadium_gallium
+- antimatter_shared:liquid_vanadium_gallium
+- antimatter_shared:flowing_liquid_vanadium_gallium
+
+#forge:rubidium
+- antimatter_shared:liquid_rubidium
+- antimatter_shared:flowing_liquid_rubidium
+
+#forge:gas_hydrogen
+- antimatter_shared:gas_hydrogen
+- antimatter_shared:flowing_gas_hydrogen
+
+#forge:copper
+- antimatter_shared:liquid_copper
+- antimatter_shared:flowing_liquid_copper
+
+#forge:liquid_protactinium_234
+- antimatter_shared:liquid_protactinium_234
+- antimatter_shared:flowing_liquid_protactinium_234
+
+#forge:liquid_protactinium_233
+- antimatter_shared:liquid_protactinium_233
+- antimatter_shared:flowing_liquid_protactinium_233
+
+#tfc:any_fresh_water
+- minecraft:water
+- minecraft:flowing_water
+- tfc:river_water
+
+#tfc:olive_oil
+- tfc:olive_oil
+- tfc:flowing_olive_oil
+
+#forge:thorium_227_hexafluoride
+- antimatter_shared:gas_thorium_227_hexafluoride
+- antimatter_shared:flowing_gas_thorium_227_hexafluoride
+
+#forge:liquid_black_steel
+- antimatter_shared:liquid_black_steel
+- antimatter_shared:flowing_liquid_black_steel
+
+#forge:antimony
+- antimatter_shared:liquid_antimony
+- antimatter_shared:flowing_liquid_antimony
+
+#forge:liquid_wood_tar
+- antimatter_shared:liquid_wood_tar
+- antimatter_shared:flowing_liquid_wood_tar
+
+#forge:liquid_glue
+- antimatter_shared:liquid_glue
+- antimatter_shared:flowing_liquid_glue
+
+#forge:liquid_lubricant
+- antimatter_shared:liquid_lubricant
+- antimatter_shared:flowing_liquid_lubricant
+
+#forge:liquid_hydro_cracked_light_fuel
+- antimatter_shared:liquid_hydro_cracked_light_fuel
+- antimatter_shared:flowing_liquid_hydro_cracked_light_fuel
+
+#forge:krypton
+- antimatter_shared:gas_krypton
+- antimatter_shared:flowing_gas_krypton
+
+#forge:gas_steam_cracked_ethylene
+- antimatter_shared:gas_steam_cracked_ethylene
+- antimatter_shared:flowing_gas_steam_cracked_ethylene
+
+#forge:liquid_tin_alloy
+- antimatter_shared:liquid_tin_alloy
+- antimatter_shared:flowing_liquid_tin_alloy
+
+#forge:liquid_mercury
+- antimatter_shared:liquid_mercury
+- antimatter_shared:flowing_liquid_mercury
+
+#forge:diluted_sulfuric_acid
+- antimatter_shared:liquid_diluted_sulfuric_acid
+- antimatter_shared:flowing_liquid_diluted_sulfuric_acid
+
+#forge:isoprene
+- antimatter_shared:liquid_isoprene
+- antimatter_shared:flowing_liquid_isoprene
+
+#forge:liquid_glyceryl
+- antimatter_shared:liquid_glyceryl
+- antimatter_shared:flowing_liquid_glyceryl
+
+#forge:fiber_reinforced_epoxy_resin
+- antimatter_shared:liquid_fiber_reinforced_epoxy_resin
+- antimatter_shared:flowing_liquid_fiber_reinforced_epoxy_resin
+
+#forge:liquid_polycaprolactam
+- antimatter_shared:liquid_polycaprolactam
+- antimatter_shared:flowing_liquid_polycaprolactam
+
+#forge:gas_steam_cracked_propene
+- antimatter_shared:gas_steam_cracked_propene
+- antimatter_shared:flowing_gas_steam_cracked_propene
+
+#forge:rhodium
+- antimatter_shared:liquid_rhodium
+- antimatter_shared:flowing_liquid_rhodium
+
+#tfc:weak_blue_steel
+- tfc:metal/weak_blue_steel
+- tfc:metal/flowing_weak_blue_steel
+
+#forge:cupronickel
+- antimatter_shared:liquid_cupronickel
+- antimatter_shared:flowing_liquid_cupronickel
+
+#forge:nickel_sulfate
+- antimatter_shared:liquid_nickel_sulfate
+- antimatter_shared:flowing_liquid_nickel_sulfate
+
+#forge:liquid_uranium_dioxide_dinitrate
+- antimatter_shared:liquid_uranium_dioxide_dinitrate
+- antimatter_shared:flowing_liquid_uranium_dioxide_dinitrate
+
+#forge:liquid_ethenol
+- antimatter_shared:liquid_ethenol
+- antimatter_shared:flowing_liquid_ethenol
+
+#forge:liquid_chloroform
+- antimatter_shared:liquid_chloroform
+- antimatter_shared:flowing_liquid_chloroform
+
+#forge:naquadah_alloy
+- antimatter_shared:liquid_naquadah_alloy
+- antimatter_shared:flowing_liquid_naquadah_alloy
+
+#forge:liquid_glyceryl_trinitrate
+- antimatter_shared:liquid_glyceryl_trinitrate
+- antimatter_shared:flowing_liquid_glyceryl_trinitrate
+
+#tfc:usable_in_red_steel_bucket
+- #tfc:ingredients
+
+#tfc:steel
+- tfc:metal/steel
+- tfc:metal/flowing_steel
+
+#forge:butenol
+- antimatter_shared:liquid_butenol
+- antimatter_shared:flowing_liquid_butenol
+
+#forge:liquid_raw_oil
+- antimatter_shared:liquid_raw_oil
+- antimatter_shared:flowing_liquid_raw_oil
+
+#tfc:light_gray_dye
+- tfc:light_gray_dye
+- tfc:flowing_light_gray_dye
+
+#forge:benzene
+- antimatter_shared:liquid_benzene
+- antimatter_shared:flowing_liquid_benzene
+
+#forge:gas_carbon_monoxide
+- antimatter_shared:gas_carbon_monoxide
+- antimatter_shared:flowing_gas_carbon_monoxide
+
+#forge:plutonium
+- antimatter_shared:liquid_plutonium
+- antimatter_shared:flowing_liquid_plutonium
+
+#forge:peroxydisulfuricacid
+- antimatter_shared:liquid_peroxydisulfuricacid
+- antimatter_shared:flowing_liquid_peroxydisulfuricacid
+
+#forge:liquid_uu_amplifier
+- antimatter_shared:liquid_uu_amplifier
+- antimatter_shared:flowing_liquid_uu_amplifier
+
+#forge:liquid_fiber_reinforced_epoxy_resin
+- antimatter_shared:liquid_fiber_reinforced_epoxy_resin
+- antimatter_shared:flowing_liquid_fiber_reinforced_epoxy_resin
+
+#forge:titaniumtetrachloride
+- antimatter_shared:liquid_titaniumtetrachloride
+- antimatter_shared:flowing_liquid_titaniumtetrachloride
+
+#forge:liquid_methanol
+- antimatter_shared:liquid_methanol
+- antimatter_shared:flowing_liquid_methanol
+
+#forge:gas_thorium_233_hexafluoride
+- antimatter_shared:gas_thorium_233_hexafluoride
+- antimatter_shared:flowing_gas_thorium_233_hexafluoride
+
+#forge:liquid_titanium
+- antimatter_shared:liquid_titanium
+- antimatter_shared:flowing_liquid_titanium
+
+#forge:liquid_antimony
+- antimatter_shared:liquid_antimony
+- antimatter_shared:flowing_liquid_antimony
+
+#forge:liquid_bismuth_214
+- antimatter_shared:liquid_bismuth_214
+- antimatter_shared:flowing_liquid_bismuth_214
+
+#forge:caesium
+- antimatter_shared:liquid_caesium
+- antimatter_shared:flowing_liquid_caesium
+
+#forge:liquid_osmium
+- antimatter_shared:liquid_osmium
+- antimatter_shared:flowing_liquid_osmium
+
+#forge:liquid_bismuth_215
+- antimatter_shared:liquid_bismuth_215
+- antimatter_shared:flowing_liquid_bismuth_215
+
+#forge:tungstensteel
+- antimatter_shared:liquid_tungstensteel
+- antimatter_shared:flowing_liquid_tungstensteel
+
+#forge:liquid_bismuth_213
+- antimatter_shared:liquid_bismuth_213
+- antimatter_shared:flowing_liquid_bismuth_213
+
+#forge:liquid_bismuth_211
+- antimatter_shared:liquid_bismuth_211
+- antimatter_shared:flowing_liquid_bismuth_211
+
+#forge:liquid_neodymium
+- antimatter_shared:liquid_neodymium
+- antimatter_shared:flowing_liquid_neodymium
+
+#forge:sodium_persulfate
+- antimatter_shared:liquid_sodium_persulfate
+- antimatter_shared:flowing_liquid_sodium_persulfate
+
+#forge:uranium_tetrafluoride
+- antimatter_shared:gas_uranium_tetrafluoride
+- antimatter_shared:flowing_gas_uranium_tetrafluoride
+
+#forge:liquid_diesel
+- antimatter_shared:liquid_diesel
+- antimatter_shared:flowing_liquid_diesel
+
+#forge:gas_steam
+- antimatter_shared:gas_steam
+- antimatter_shared:flowing_gas_steam
+
+#tfc:usable_in_tool_head_mold
+- tfc:metal/copper
+- tfc:metal/bismuth_bronze
+- tfc:metal/black_bronze
+- tfc:metal/bronze
+
+#forge:steel
+- antimatter_shared:liquid_steel
+- antimatter_shared:flowing_liquid_steel
+
+#forge:propanediol
+- antimatter_shared:liquid_propanediol
+- antimatter_shared:flowing_liquid_propanediol
+
+#forge:thorium_229_hexafluoride
+- antimatter_shared:gas_thorium_229_hexafluoride
+- antimatter_shared:flowing_gas_thorium_229_hexafluoride
+
+#forge:liquid_concrete
+- antimatter_shared:liquid_concrete
+- antimatter_shared:flowing_liquid_concrete
+
+#forge:terbium
+- antimatter_shared:liquid_terbium
+- antimatter_shared:flowing_liquid_terbium
+
+#forge:thorium_228_hexafluoride
+- antimatter_shared:gas_thorium_228_hexafluoride
+- antimatter_shared:flowing_gas_thorium_228_hexafluoride
+
+#tfc:rose_gold
+- tfc:metal/rose_gold
+- tfc:metal/flowing_rose_gold
+
+#forge:uranium_233_hexafluoride
+- antimatter_shared:gas_uranium_233_hexafluoride
+- antimatter_shared:flowing_gas_uranium_233_hexafluoride
+
+#forge:liquid_bisphenol_a
+- antimatter_shared:liquid_bisphenol_a
+- antimatter_shared:flowing_liquid_bisphenol_a
+
+#forge:cumene
+- antimatter_shared:liquid_cumene
+- antimatter_shared:flowing_liquid_cumene
+
+#forge:liquid_protactinium_232
+- antimatter_shared:liquid_protactinium_232
+- antimatter_shared:flowing_liquid_protactinium_232
+
+#forge:liquid_aluminium
+- antimatter_shared:liquid_aluminium
+- antimatter_shared:flowing_liquid_aluminium
+
+#forge:liquid_protactinium_231
+- antimatter_shared:liquid_protactinium_231
+- antimatter_shared:flowing_liquid_protactinium_231
+
+#forge:liquid_nichrome
+- antimatter_shared:liquid_nichrome
+- antimatter_shared:flowing_liquid_nichrome
+
+#forge:gas_hydro_cracked_propane
+- antimatter_shared:gas_hydro_cracked_propane
+- antimatter_shared:flowing_gas_hydro_cracked_propane
+
+#forge:carbon_dioxide
+- antimatter_shared:gas_carbon_dioxide
+- antimatter_shared:flowing_gas_carbon_dioxide
+
+#forge:liquid_honey
+- antimatter_shared:liquid_honey
+- antimatter_shared:flowing_liquid_honey
+
+#forge:liquid_creosote
+- antimatter_shared:liquid_creosote
+- antimatter_shared:flowing_liquid_creosote
+
+#tfc:limewater
+- tfc:limewater
+- tfc:flowing_limewater
+
+#forge:gas_xenon
+- antimatter_shared:gas_xenon
+- antimatter_shared:flowing_gas_xenon
+
+#forge:radon_222
+- antimatter_shared:gas_radon_222
+- antimatter_shared:flowing_gas_radon_222
+
+#forge:liquid_polyphenylene_sulfide
+- antimatter_shared:liquid_polyphenylene_sulfide
+- antimatter_shared:flowing_liquid_polyphenylene_sulfide
+
+#forge:radon_220
+- antimatter_shared:gas_radon_220
+- antimatter_shared:flowing_gas_radon_220
+
+#forge:propene
+- antimatter_shared:gas_propene
+- antimatter_shared:flowing_gas_propene
+
+#forge:liquid_kanthal
+- antimatter_shared:liquid_kanthal
+- antimatter_shared:flowing_liquid_kanthal
+
+#forge:liquid_leaching_solution
+- antimatter_shared:liquid_leaching_solution
+- antimatter_shared:flowing_liquid_leaching_solution
+
+#forge:liquid_radium
+- antimatter_shared:liquid_radium
+- antimatter_shared:flowing_liquid_radium
+
+#forge:liquid_actinium_225
+- antimatter_shared:liquid_actinium_225
+- antimatter_shared:flowing_liquid_actinium_225
+
+#forge:liquid_actinium_228
+- antimatter_shared:liquid_actinium_228
+- antimatter_shared:flowing_liquid_actinium_228
+
+#tfc:molten_metals
+- tfc:metal/bismuth
+- tfc:metal/bismuth_bronze
+- tfc:metal/black_bronze
+- tfc:metal/bronze
+- tfc:metal/brass
+- tfc:metal/copper
+- tfc:metal/gold
+- tfc:metal/nickel
+- tfc:metal/rose_gold
+- tfc:metal/silver
+- tfc:metal/tin
+- tfc:metal/zinc
+- tfc:metal/sterling_silver
+- tfc:metal/wrought_iron
+- tfc:metal/cast_iron
+- tfc:metal/pig_iron
+- tfc:metal/steel
+- tfc:metal/black_steel
+- tfc:metal/blue_steel
+- tfc:metal/red_steel
+- tfc:metal/weak_steel
+- tfc:metal/weak_blue_steel
+- tfc:metal/weak_red_steel
+- tfc:metal/high_carbon_steel
+- tfc:metal/high_carbon_black_steel
+- tfc:metal/high_carbon_blue_steel
+- tfc:metal/high_carbon_red_steel
+- tfc:metal/unknown
+
+#forge:liquid_actinium_227
+- antimatter_shared:liquid_actinium_227
+- antimatter_shared:flowing_liquid_actinium_227
+
+#forge:dysprosium
+- antimatter_shared:liquid_dysprosium
+- antimatter_shared:flowing_liquid_dysprosium
+
+#forge:gas_nickel
+- antimatter_shared:gas_nickel
+- antimatter_shared:flowing_gas_nickel
+
+#forge:radon_219
+- antimatter_shared:gas_radon_219
+- antimatter_shared:flowing_gas_radon_219
+
+#forge:acetic_acid
+- antimatter_shared:liquid_acetic_acid
+- antimatter_shared:flowing_liquid_acetic_acid
+
+#forge:radon_217
+- antimatter_shared:gas_radon_217
+- antimatter_shared:flowing_gas_radon_217
+
+#forge:radon_218
+- antimatter_shared:gas_radon_218
+- antimatter_shared:flowing_gas_radon_218
+
+#tfc:wrought_iron
+- tfc:metal/wrought_iron
+- tfc:metal/flowing_wrought_iron
+
+#forge:benzoyl_chloride
+- antimatter_shared:liquid_benzoyl_chloride
+- antimatter_shared:flowing_liquid_benzoyl_chloride
+
+#forge:titanium
+- antimatter_shared:liquid_titanium
+- antimatter_shared:flowing_liquid_titanium
+
+#forge:liquid_silicon
+- antimatter_shared:liquid_silicon
+- antimatter_shared:flowing_liquid_silicon
+
+#forge:liquid_ruthenium
+- antimatter_shared:liquid_ruthenium
+- antimatter_shared:flowing_liquid_ruthenium
+
+#forge:zinc
+- antimatter_shared:liquid_zinc
+- antimatter_shared:flowing_liquid_zinc
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- #tfc:salt_water
+- #tfc:spring_water
+- #tfc:brine
+- #tfc:curdled_milk
+- #tfc:limewater
+- #tfc:lye
+- #tfc:milk_vinegar
+- #tfc:olive_oil
+- #tfc:olive_oil_water
+- #tfc:tallow
+- #tfc:tannin
+- #tfc:vinegar
+- #tfc:beer
+- #tfc:cider
+- #tfc:rum
+- #tfc:sake
+- #tfc:vodka
+- #tfc:whiskey
+- #tfc:corn_whiskey
+- #tfc:rye_whiskey
+- #tfc:white_dye
+- #tfc:orange_dye
+- #tfc:magenta_dye
+- #tfc:light_blue_dye
+- #tfc:yellow_dye
+- #tfc:lime_dye
+- #tfc:pink_dye
+- #tfc:gray_dye
+- #tfc:light_gray_dye
+- #tfc:cyan_dye
+- #tfc:purple_dye
+- #tfc:blue_dye
+- #tfc:brown_dye
+- #tfc:green_dye
+- #tfc:red_dye
+- #tfc:black_dye
+- tfc:river_water
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:liquid_chrome
+- antimatter_shared:liquid_chrome
+- antimatter_shared:flowing_liquid_chrome
+
+#forge:liquid_tetranitromethane
+- antimatter_shared:liquid_tetranitromethane
+- antimatter_shared:flowing_liquid_tetranitromethane
+
+#forge:gas_hydro_cracked_ethane
+- antimatter_shared:gas_hydro_cracked_ethane
+- antimatter_shared:flowing_gas_hydro_cracked_ethane
+
+#forge:plutonium_240
+- antimatter_shared:liquid_plutonium_240
+- antimatter_shared:flowing_liquid_plutonium_240
+
+#forge:gas_uranium_237_hexafluoride
+- antimatter_shared:gas_uranium_237_hexafluoride
+- antimatter_shared:flowing_gas_uranium_237_hexafluoride
+
+#forge:plutonium_241
+- antimatter_shared:liquid_plutonium_241
+- antimatter_shared:flowing_liquid_plutonium_241
+
+#forge:light_diesel
+- antimatter_shared:liquid_light_diesel
+- antimatter_shared:flowing_liquid_light_diesel
+
+#forge:silver
+- antimatter_shared:liquid_silver
+- antimatter_shared:flowing_liquid_silver
+
+#forge:plutonium_242
+- antimatter_shared:liquid_plutonium_242
+- antimatter_shared:flowing_liquid_plutonium_242
+
+#forge:plutonium_243
+- antimatter_shared:liquid_plutonium_243
+- antimatter_shared:flowing_liquid_plutonium_243
+
+#forge:salt_water
+- antimatter_shared:liquid_salt_water
+- antimatter_shared:flowing_liquid_salt_water
+
+#forge:plutonium_244
+- antimatter_shared:liquid_plutonium_244
+- antimatter_shared:flowing_liquid_plutonium_244
+
+#forge:thorium_234_hexafluoride
+- antimatter_shared:gas_thorium_234_hexafluoride
+- antimatter_shared:flowing_gas_thorium_234_hexafluoride
+
+#forge:plutonium_246
+- antimatter_shared:liquid_plutonium_246
+- antimatter_shared:flowing_liquid_plutonium_246
+
+#forge:gas_nitrogen
+- antimatter_shared:gas_nitrogen
+- antimatter_shared:flowing_gas_nitrogen
+
+#forge:liquid_terbium
+- antimatter_shared:liquid_terbium
+- antimatter_shared:flowing_liquid_terbium
+
+#forge:magnalium
+- antimatter_shared:liquid_magnalium
+- antimatter_shared:flowing_liquid_magnalium
+
+#forge:dinitrogen_tetroxide
+- antimatter_shared:gas_dinitrogen_tetroxide
+- antimatter_shared:flowing_gas_dinitrogen_tetroxide
+
+#forge:gas_methane
+- antimatter_shared:gas_methane
+- antimatter_shared:flowing_gas_methane
+
+#forge:tellurium
+- antimatter_shared:liquid_tellurium
+- antimatter_shared:flowing_liquid_tellurium
+
+#forge:hafnium
+- antimatter_shared:liquid_hafnium
+- antimatter_shared:flowing_liquid_hafnium
+
+#tfc:curdled_milk
+- tfc:curdled_milk
+- tfc:flowing_curdled_milk
+
+#forge:liquid_oil
+- antimatter_shared:liquid_oil
+- antimatter_shared:flowing_liquid_oil
+
+#forge:fermium
+- antimatter_shared:liquid_fermium
+- antimatter_shared:flowing_liquid_fermium
+
+#forge:liquid_hydrochloric_acid
+- antimatter_shared:liquid_hydrochloric_acid
+- antimatter_shared:flowing_liquid_hydrochloric_acid
+
+#tfc:gray_dye
+- tfc:gray_dye
+- tfc:flowing_gray_dye
+
+#forge:plutonium_236
+- antimatter_shared:liquid_plutonium_236
+- antimatter_shared:flowing_liquid_plutonium_236
+
+#forge:plutonium_238
+- antimatter_shared:liquid_plutonium_238
+- antimatter_shared:flowing_liquid_plutonium_238
+
+#forge:plutonium_239
+- antimatter_shared:liquid_plutonium_239
+- antimatter_shared:flowing_liquid_plutonium_239
+
+#forge:liquid_hydrofluoric_acid
+- antimatter_shared:liquid_hydrofluoric_acid
+- antimatter_shared:flowing_liquid_hydrofluoric_acid
+
+#tfc:usable_in_blue_steel_bucket
+- minecraft:lava
+- #tfc:molten_metals
+
+#forge:magnetic_iron
+- antimatter_shared:liquid_magnetic_iron
+- antimatter_shared:flowing_liquid_magnetic_iron
+
+#forge:liquid_bronze
+- antimatter_shared:liquid_bronze
+- antimatter_shared:flowing_liquid_bronze
+
+#forge:styrene
+- antimatter_shared:liquid_styrene
+- antimatter_shared:flowing_liquid_styrene
+
+#forge:gas_thorium_tetrafluoride
+- antimatter_shared:gas_thorium_tetrafluoride
+- antimatter_shared:flowing_gas_thorium_tetrafluoride
+
+#forge:dichloroethane
+- antimatter_shared:liquid_dichloroethane
+- antimatter_shared:flowing_liquid_dichloroethane
+
+#forge:gas_steam_cracked_butadiene
+- antimatter_shared:gas_steam_cracked_butadiene
+- antimatter_shared:flowing_gas_steam_cracked_butadiene
+
+#forge:hydro_cracked_heavy_fuel
+- antimatter_shared:liquid_hydro_cracked_heavy_fuel
+- antimatter_shared:flowing_liquid_hydro_cracked_heavy_fuel
+
+#forge:strontium
+- antimatter_shared:liquid_strontium
+- antimatter_shared:flowing_liquid_strontium
+
+#forge:liquid_samarium
+- antimatter_shared:liquid_samarium
+- antimatter_shared:flowing_liquid_samarium
+
+#tfc:green_dye
+- tfc:green_dye
+- tfc:flowing_green_dye
+
+#forge:stainless_steel
+- antimatter_shared:liquid_stainless_steel
+- antimatter_shared:flowing_liquid_stainless_steel
+
+#tfc:lye
+- tfc:lye
+- tfc:flowing_lye
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- #tfc:molten_metals
+
+#forge:liquid_soldering_alloy
+- antimatter_shared:liquid_soldering_alloy
+- antimatter_shared:flowing_liquid_soldering_alloy
+
+#forge:gas_thorium_234_hexafluoride
+- antimatter_shared:gas_thorium_234_hexafluoride
+- antimatter_shared:flowing_gas_thorium_234_hexafluoride
+
+#forge:heavy_diesel
+- antimatter_shared:liquid_heavy_diesel
+- antimatter_shared:flowing_liquid_heavy_diesel
+
+#forge:gas_tritium
+- antimatter_shared:gas_tritium
+- antimatter_shared:flowing_gas_tritium
+
+#forge:silicone
+- antimatter_shared:liquid_silicone
+- antimatter_shared:flowing_liquid_silicone
+
+#forge:hydro_cracked_refinery_gas
+- antimatter_shared:gas_hydro_cracked_refinery_gas
+- antimatter_shared:flowing_gas_hydro_cracked_refinery_gas
+
+#forge:liquid_red_alloy
+- antimatter_shared:liquid_red_alloy
+- antimatter_shared:flowing_liquid_red_alloy
+
+#forge:concrete
+- antimatter_shared:liquid_concrete
+- antimatter_shared:flowing_liquid_concrete
+
+#forge:liquid_sodium_bicarbonate_solution
+- antimatter_shared:liquid_sodium_bicarbonate_solution
+- antimatter_shared:flowing_liquid_sodium_bicarbonate_solution
+
+#forge:liquid_salt_water
+- antimatter_shared:liquid_salt_water
+- antimatter_shared:flowing_liquid_salt_water
+
+#forge:liquid_vanadium_gallium
+- antimatter_shared:liquid_vanadium_gallium
+- antimatter_shared:flowing_liquid_vanadium_gallium
+
+#forge:liquid_dichlorobenzene
+- antimatter_shared:liquid_dichlorobenzene
+- antimatter_shared:flowing_liquid_dichlorobenzene
+
+#forge:liquid_californium
+- antimatter_shared:liquid_californium
+- antimatter_shared:flowing_liquid_californium
+
+#forge:curium_247
+- antimatter_shared:liquid_curium_247
+- antimatter_shared:flowing_liquid_curium_247
+
+#forge:curium_248
+- antimatter_shared:liquid_curium_248
+- antimatter_shared:flowing_liquid_curium_248
+
+#tfc:usable_in_pot
+- #tfc:ingredients
+
+#forge:curium_249
+- antimatter_shared:liquid_curium_249
+- antimatter_shared:flowing_liquid_curium_249
+
+#forge:radium
+- antimatter_shared:liquid_radium
+- antimatter_shared:flowing_liquid_radium
+
+#forge:liquid_holmium
+- antimatter_shared:liquid_holmium
+- antimatter_shared:flowing_liquid_holmium
+
+#forge:hydrofluoric_acid
+- antimatter_shared:liquid_hydrofluoric_acid
+- antimatter_shared:flowing_liquid_hydrofluoric_acid
+
+#forge:steam_cracked_heavy_fuel
+- antimatter_shared:liquid_steam_cracked_heavy_fuel
+- antimatter_shared:flowing_liquid_steam_cracked_heavy_fuel
+
+#forge:butene
+- antimatter_shared:gas_butene
+- antimatter_shared:flowing_gas_butene
+
+#forge:liquid_wrought_iron
+- antimatter_shared:liquid_wrought_iron
+- antimatter_shared:flowing_liquid_wrought_iron
+
+#forge:liquid_vibranium
+- antimatter_shared:liquid_vibranium
+- antimatter_shared:flowing_liquid_vibranium
+
+#forge:gas_nitric_oxide
+- antimatter_shared:gas_nitric_oxide
+- antimatter_shared:flowing_gas_nitric_oxide
+
+#forge:steam_cracked_propene
+- antimatter_shared:gas_steam_cracked_propene
+- antimatter_shared:flowing_gas_steam_cracked_propene
+
+#forge:curium_244
+- antimatter_shared:liquid_curium_244
+- antimatter_shared:flowing_liquid_curium_244
+
+#forge:curium_245
+- antimatter_shared:liquid_curium_245
+- antimatter_shared:flowing_liquid_curium_245
+
+#forge:curium_246
+- antimatter_shared:liquid_curium_246
+- antimatter_shared:flowing_liquid_curium_246
+
+#tfc:beer
+- tfc:beer
+- tfc:flowing_beer
+
+#forge:europium
+- antimatter_shared:liquid_europium
+- antimatter_shared:flowing_liquid_europium
+
+#forge:epoxid
+- antimatter_shared:liquid_epoxid
+- antimatter_shared:flowing_liquid_epoxid
+
+#forge:curium_242
+- antimatter_shared:liquid_curium_242
+- antimatter_shared:flowing_liquid_curium_242
+
+#forge:hsse
+- antimatter_shared:liquid_hsse
+- antimatter_shared:flowing_liquid_hsse
+
+#forge:polytetrafluoroethylene
+- antimatter_shared:liquid_polytetrafluoroethylene
+- antimatter_shared:flowing_liquid_polytetrafluoroethylene
+
+#forge:hssg
+- antimatter_shared:liquid_hssg
+- antimatter_shared:flowing_liquid_hssg
+
+#forge:liquid_neptunium_236
+- antimatter_shared:liquid_neptunium_236
+- antimatter_shared:flowing_liquid_neptunium_236
+
+#tfc:silver
+- tfc:metal/silver
+- tfc:metal/flowing_silver
+
+#forge:liquid_neptunium_237
+- antimatter_shared:liquid_neptunium_237
+- antimatter_shared:flowing_liquid_neptunium_237
+
+#forge:liquid_neptunium_238
+- antimatter_shared:liquid_neptunium_238
+- antimatter_shared:flowing_liquid_neptunium_238
+
+#forge:liquid_neptunium_239
+- antimatter_shared:liquid_neptunium_239
+- antimatter_shared:flowing_liquid_neptunium_239
+
+#tfc:salt_water
+- tfc:salt_water
+- tfc:flowing_salt_water
+
+#forge:liquid_wood_vinegar
+- antimatter_shared:liquid_wood_vinegar
+- antimatter_shared:flowing_liquid_wood_vinegar
+
+#forge:gas_sulfur_trioxide
+- antimatter_shared:gas_sulfur_trioxide
+- antimatter_shared:flowing_gas_sulfur_trioxide
+
+#forge:actinium_227
+- antimatter_shared:liquid_actinium_227
+- antimatter_shared:flowing_liquid_actinium_227
+
+#forge:actinium_225
+- antimatter_shared:liquid_actinium_225
+- antimatter_shared:flowing_liquid_actinium_225
+
+#forge:gas_hydro_cracked_butadiene
+- antimatter_shared:gas_hydro_cracked_butadiene
+- antimatter_shared:flowing_gas_hydro_cracked_butadiene
+
+#forge:actinium_228
+- antimatter_shared:liquid_actinium_228
+- antimatter_shared:flowing_liquid_actinium_228
+
+#forge:liquid_astatine
+- antimatter_shared:liquid_astatine
+- antimatter_shared:flowing_liquid_astatine
+
+#forge:dichlorobenzene
+- antimatter_shared:liquid_dichlorobenzene
+- antimatter_shared:flowing_liquid_dichlorobenzene
+
+#forge:rubber
+- antimatter_shared:liquid_rubber
+- antimatter_shared:flowing_liquid_rubber
+
+#tfc:brine
+- tfc:brine
+- tfc:flowing_brine
+
+#forge:berkelium
+- antimatter_shared:liquid_berkelium
+- antimatter_shared:flowing_liquid_berkelium
+
+#forge:liquid_rhenium
+- antimatter_shared:liquid_rhenium
+- antimatter_shared:flowing_liquid_rhenium
+
+#forge:natural_gas
+- antimatter_shared:gas_natural_gas
+- antimatter_shared:flowing_gas_natural_gas
+
+#forge:liquid_carbon
+- antimatter_shared:liquid_carbon
+- antimatter_shared:flowing_liquid_carbon
+
+#forge:hsss
+- antimatter_shared:liquid_hsss
+- antimatter_shared:flowing_liquid_hsss
+
+#forge:tetranitromethane
+- antimatter_shared:liquid_tetranitromethane
+- antimatter_shared:flowing_liquid_tetranitromethane
+
+#forge:liquid_indium
+- antimatter_shared:liquid_indium
+- antimatter_shared:flowing_liquid_indium
+
+#forge:fluorine
+- antimatter_shared:gas_fluorine
+- antimatter_shared:flowing_gas_fluorine
+
+#forge:uranium_239_hexafluoride
+- antimatter_shared:gas_uranium_239_hexafluoride
+- antimatter_shared:flowing_gas_uranium_239_hexafluoride
+
+#forge:samarium
+- antimatter_shared:liquid_samarium
+- antimatter_shared:flowing_liquid_samarium
+
+#forge:liquid_silicone
+- antimatter_shared:liquid_silicone
+- antimatter_shared:flowing_liquid_silicone
+
+#forge:drilling_fluid
+- antimatter_shared:liquid_drilling_fluid
+- antimatter_shared:flowing_liquid_drilling_fluid
+
+#forge:liquid_coolant
+- antimatter_shared:liquid_coolant
+- antimatter_shared:flowing_liquid_coolant
+
+#forge:gas_hydro_cracked_ethylene
+- antimatter_shared:gas_hydro_cracked_ethylene
+- antimatter_shared:flowing_gas_hydro_cracked_ethylene
+
+#forge:osmium
+- antimatter_shared:liquid_osmium
+- antimatter_shared:flowing_liquid_osmium
+
+#forge:thallium_210
+- antimatter_shared:liquid_thallium_210
+- antimatter_shared:flowing_liquid_thallium_210
+
+#forge:black_steel
+- antimatter_shared:liquid_black_steel
+- antimatter_shared:flowing_liquid_black_steel
+
+#forge:sulfuric_gas
+- antimatter_shared:gas_sulfuric_gas
+- antimatter_shared:flowing_gas_sulfuric_gas
+
+#forge:gas_hydrogen_sulfide
+- antimatter_shared:gas_hydrogen_sulfide
+- antimatter_shared:flowing_gas_hydrogen_sulfide
+
+#forge:uranium_235_hexafluoride
+- antimatter_shared:gas_uranium_235_hexafluoride
+- antimatter_shared:flowing_gas_uranium_235_hexafluoride
+
+#forge:iron
+- antimatter_shared:liquid_iron
+- antimatter_shared:flowing_liquid_iron
+- antimatter_shared:gas_iron
+- antimatter_shared:flowing_gas_iron
+- antimatter_shared:plasma_iron
+- antimatter_shared:flowing_plasma_iron
+
+#forge:thallium_209
+- antimatter_shared:liquid_thallium_209
+- antimatter_shared:flowing_liquid_thallium_209
+
+#forge:toluene
+- antimatter_shared:liquid_toluene
+- antimatter_shared:flowing_liquid_toluene
+
+#forge:gas_hydro_cracked_propene
+- antimatter_shared:gas_hydro_cracked_propene
+- antimatter_shared:flowing_gas_hydro_cracked_propene
+
+#forge:liquid_nitric_acid
+- antimatter_shared:liquid_nitric_acid
+- antimatter_shared:flowing_liquid_nitric_acid
+
+#tfc:black_steel
+- tfc:metal/black_steel
+- tfc:metal/flowing_black_steel
+
+#forge:liquid_yttrium
+- antimatter_shared:liquid_yttrium
+- antimatter_shared:flowing_liquid_yttrium
+
+#forge:chloromethane
+- antimatter_shared:gas_chloromethane
+- antimatter_shared:flowing_gas_chloromethane
+
+#forge:thallium_207
+- antimatter_shared:liquid_thallium_207
+- antimatter_shared:flowing_liquid_thallium_207
+
+#forge:neutronium
+- antimatter_shared:liquid_neutronium
+- antimatter_shared:flowing_liquid_neutronium
+
+#forge:liquid_peroxydisulfuricacid
+- antimatter_shared:liquid_peroxydisulfuricacid
+- antimatter_shared:flowing_liquid_peroxydisulfuricacid
+
+#forge:liquid_ethanol
+- antimatter_shared:liquid_ethanol
+- antimatter_shared:flowing_liquid_ethanol
+
+#forge:sulfuric_heavy_diesel
+- antimatter_shared:liquid_sulfuric_heavy_diesel
+- antimatter_shared:flowing_liquid_sulfuric_heavy_diesel
+
+#tfc:tallow
+- tfc:tallow
+- tfc:flowing_tallow
+
+#forge:liquid_benzoyl_chloride
+- antimatter_shared:liquid_benzoyl_chloride
+- antimatter_shared:flowing_liquid_benzoyl_chloride
+
+#forge:bismuth_215
+- antimatter_shared:liquid_bismuth_215
+- antimatter_shared:flowing_liquid_bismuth_215
+
+#forge:methyl_acetate
+- antimatter_shared:liquid_methyl_acetate
+- antimatter_shared:flowing_liquid_methyl_acetate
+
+#forge:tantalum
+- antimatter_shared:liquid_tantalum
+- antimatter_shared:flowing_liquid_tantalum
+
+#forge:helium_3
+- antimatter_shared:gas_helium_3
+- antimatter_shared:flowing_gas_helium_3
+
+#forge:liquid_arsenic
+- antimatter_shared:liquid_arsenic
+- antimatter_shared:flowing_liquid_arsenic
+
+#forge:bismuth_213
+- antimatter_shared:liquid_bismuth_213
+- antimatter_shared:flowing_liquid_bismuth_213
+
+#forge:hydro_cracked_butadiene
+- antimatter_shared:gas_hydro_cracked_butadiene
+- antimatter_shared:flowing_gas_hydro_cracked_butadiene
+
+#forge:bismuth_214
+- antimatter_shared:liquid_bismuth_214
+- antimatter_shared:flowing_liquid_bismuth_214
+
+#forge:bismuth_211
+- antimatter_shared:liquid_bismuth_211
+- antimatter_shared:flowing_liquid_bismuth_211
+
+#forge:liquid_acetone
+- antimatter_shared:liquid_acetone
+- antimatter_shared:flowing_liquid_acetone
+
+#forge:liquid_lanthanum
+- antimatter_shared:liquid_lanthanum
+- antimatter_shared:flowing_liquid_lanthanum
+
+#tfc:vinegar
+- tfc:vinegar
+- tfc:flowing_vinegar
+
+#forge:seed_oil
+- antimatter_shared:liquid_seed_oil
+- antimatter_shared:flowing_liquid_seed_oil
+
+#forge:gas_steam_cracked_butane
+- antimatter_shared:gas_steam_cracked_butane
+- antimatter_shared:flowing_gas_steam_cracked_butane
+
+#forge:germanium
+- antimatter_shared:liquid_germanium
+- antimatter_shared:flowing_liquid_germanium
+
+#forge:liquid_hydrogen_peroxide
+- antimatter_shared:liquid_hydrogen_peroxide
+- antimatter_shared:flowing_liquid_hydrogen_peroxide
+
+#tfc:corn_whiskey
+- tfc:corn_whiskey
+- tfc:flowing_corn_whiskey
+
+#forge:oil
+- antimatter_shared:liquid_oil
+- antimatter_shared:flowing_liquid_oil
+
+#forge:steam_cracked_ethylene
+- antimatter_shared:gas_steam_cracked_ethylene
+- antimatter_shared:flowing_gas_steam_cracked_ethylene
+
+#forge:sulfur
+- antimatter_shared:gas_sulfur
+- antimatter_shared:flowing_gas_sulfur
+- antimatter_shared:plasma_sulfur
+- antimatter_shared:flowing_plasma_sulfur
+
+#forge:gas_thorium_227_hexafluoride
+- antimatter_shared:gas_thorium_227_hexafluoride
+- antimatter_shared:flowing_gas_thorium_227_hexafluoride
+
+#forge:liquid_charcoal_byproducts
+- antimatter_shared:liquid_charcoal_byproducts
+- antimatter_shared:flowing_liquid_charcoal_byproducts
+
+#forge:gas_iron
+- antimatter_shared:gas_iron
+- antimatter_shared:flowing_gas_iron
+
+#forge:liquid_thulium
+- antimatter_shared:liquid_thulium
+- antimatter_shared:flowing_liquid_thulium
+
+#forge:liquid_magnetic_iron
+- antimatter_shared:liquid_magnetic_iron
+- antimatter_shared:flowing_liquid_magnetic_iron
+
+#forge:liquid_duranium
+- antimatter_shared:liquid_duranium
+- antimatter_shared:flowing_liquid_duranium
+
+#forge:gas_carbon_dioxide
+- antimatter_shared:gas_carbon_dioxide
+- antimatter_shared:flowing_gas_carbon_dioxide
+
+#forge:glue
+- antimatter_shared:liquid_glue
+- antimatter_shared:flowing_liquid_glue
+
+#forge:gas_deuterium
+- antimatter_shared:gas_deuterium
+- antimatter_shared:flowing_gas_deuterium
+
+#forge:liquid_plutonium_243
+- antimatter_shared:liquid_plutonium_243
+- antimatter_shared:flowing_liquid_plutonium_243
+
+#forge:liquid_plutonium_242
+- antimatter_shared:liquid_plutonium_242
+- antimatter_shared:flowing_liquid_plutonium_242
+
+#forge:liquid_plutonium_241
+- antimatter_shared:liquid_plutonium_241
+- antimatter_shared:flowing_liquid_plutonium_241
+
+#forge:liquid_plutonium_240
+- antimatter_shared:liquid_plutonium_240
+- antimatter_shared:flowing_liquid_plutonium_240
+
+#forge:fermented_biomass
+- antimatter_shared:liquid_fermented_biomass
+- antimatter_shared:flowing_liquid_fermented_biomass
+
+#forge:electrum
+- antimatter_shared:liquid_electrum
+- antimatter_shared:flowing_liquid_electrum
+
+#forge:protactinium_231
+- antimatter_shared:liquid_protactinium_231
+- antimatter_shared:flowing_liquid_protactinium_231
+
+#forge:helium
+- antimatter_shared:gas_helium
+- antimatter_shared:flowing_gas_helium
+- antimatter_shared:plasma_helium
+- antimatter_shared:flowing_plasma_helium
+
+#forge:liquid_diluted_hydrochloric_acid
+- antimatter_shared:liquid_diluted_hydrochloric_acid
+- antimatter_shared:flowing_liquid_diluted_hydrochloric_acid
+
+#forge:protactinium_234
+- antimatter_shared:liquid_protactinium_234
+- antimatter_shared:flowing_liquid_protactinium_234
+
+#forge:liquid_plutonium_246
+- antimatter_shared:liquid_plutonium_246
+- antimatter_shared:flowing_liquid_plutonium_246
+
+#forge:protactinium_233
+- antimatter_shared:liquid_protactinium_233
+- antimatter_shared:flowing_liquid_protactinium_233
+
+#forge:protactinium_232
+- antimatter_shared:liquid_protactinium_232
+- antimatter_shared:flowing_liquid_protactinium_232
+
+#forge:liquid_plutonium_244
+- antimatter_shared:liquid_plutonium_244
+- antimatter_shared:flowing_liquid_plutonium_244
+
+#forge:ethenone
+- antimatter_shared:gas_ethenone
+- antimatter_shared:flowing_gas_ethenone
+
+#forge:liquid_magnesium
+- antimatter_shared:liquid_magnesium
+- antimatter_shared:flowing_liquid_magnesium
+
+#forge:polystyrene
+- antimatter_shared:liquid_polystyrene
+- antimatter_shared:flowing_liquid_polystyrene
+
+#forge:nickel_zinc_ferrite
+- antimatter_shared:liquid_nickel_zinc_ferrite
+- antimatter_shared:flowing_liquid_nickel_zinc_ferrite
+
+#forge:liquid_actinium
+- antimatter_shared:liquid_actinium
+- antimatter_shared:flowing_liquid_actinium
+
+#forge:gas_uranium_232_hexafluoride
+- antimatter_shared:gas_uranium_232_hexafluoride
+- antimatter_shared:flowing_gas_uranium_232_hexafluoride
+
+#forge:plasma_iron
+- antimatter_shared:plasma_iron
+- antimatter_shared:flowing_plasma_iron
+
+#forge:liquid_gold
+- antimatter_shared:liquid_gold
+- antimatter_shared:flowing_liquid_gold
+
+#forge:einsteinium
+- antimatter_shared:liquid_einsteinium
+- antimatter_shared:flowing_liquid_einsteinium
+
+#forge:liquid_plutonium_239
+- antimatter_shared:liquid_plutonium_239
+- antimatter_shared:flowing_liquid_plutonium_239
+
+#forge:butane
+- antimatter_shared:gas_butane
+- antimatter_shared:flowing_gas_butane
+
+#tfc:tannin
+- tfc:tannin
+- tfc:flowing_tannin
+
+#forge:liquid_plutonium_238
+- antimatter_shared:liquid_plutonium_238
+- antimatter_shared:flowing_liquid_plutonium_238
+
+#forge:liquid_thorium_dioxide_dinitrate
+- antimatter_shared:liquid_thorium_dioxide_dinitrate
+- antimatter_shared:flowing_liquid_thorium_dioxide_dinitrate
+
+#forge:liquid_plutonium_236
+- antimatter_shared:liquid_plutonium_236
+- antimatter_shared:flowing_liquid_plutonium_236
+
+#tfc:red_dye
+- tfc:red_dye
+- tfc:flowing_red_dye
+
+#forge:liquid_neptunium_240
+- antimatter_shared:liquid_neptunium_240
+- antimatter_shared:flowing_liquid_neptunium_240
+
+#forge:glyceryl_trinitrate
+- antimatter_shared:liquid_glyceryl_trinitrate
+- antimatter_shared:flowing_liquid_glyceryl_trinitrate
+
+#tfc:zinc
+- tfc:metal/zinc
+- tfc:metal/flowing_zinc
+
+#forge:steam_cracked_propane
+- antimatter_shared:gas_steam_cracked_propane
+- antimatter_shared:flowing_gas_steam_cracked_propane
+
+#forge:liquid_vinyl_acetate
+- antimatter_shared:liquid_vinyl_acetate
+- antimatter_shared:flowing_liquid_vinyl_acetate
+
+#forge:oxygen
+- antimatter_shared:gas_oxygen
+- antimatter_shared:flowing_gas_oxygen
+- antimatter_shared:plasma_oxygen
+- antimatter_shared:flowing_plasma_oxygen
+
+#forge:liquid_enriched_naquadah
+- antimatter_shared:liquid_enriched_naquadah
+- antimatter_shared:flowing_liquid_enriched_naquadah
+
+#forge:liquid_praseodymium
+- antimatter_shared:liquid_praseodymium
+- antimatter_shared:flowing_liquid_praseodymium
+
+#forge:polyphenylene_sulfide
+- antimatter_shared:liquid_polyphenylene_sulfide
+- antimatter_shared:flowing_liquid_polyphenylene_sulfide
+
+#forge:liquid_light_diesel
+- antimatter_shared:liquid_light_diesel
+- antimatter_shared:flowing_liquid_light_diesel
+
+#tfc:mixable
+- #minecraft:water
+
+#forge:curium_250
+- antimatter_shared:liquid_curium_250
+- antimatter_shared:flowing_liquid_curium_250
+
+#forge:dimethylamine
+- antimatter_shared:gas_dimethylamine
+- antimatter_shared:flowing_gas_dimethylamine
+
+#forge:liquid_uranium_240
+- antimatter_shared:liquid_uranium_240
+- antimatter_shared:flowing_liquid_uranium_240
+
+#forge:gas_uranium_239_hexafluoride
+- antimatter_shared:gas_uranium_239_hexafluoride
+- antimatter_shared:flowing_gas_uranium_239_hexafluoride
+
+#forge:vinyl_acetate
+- antimatter_shared:liquid_vinyl_acetate
+- antimatter_shared:flowing_liquid_vinyl_acetate
+
+#forge:neptunium_240
+- antimatter_shared:liquid_neptunium_240
+- antimatter_shared:flowing_liquid_neptunium_240
+
+#tfc:high_carbon_red_steel
+- tfc:metal/high_carbon_red_steel
+- tfc:metal/flowing_high_carbon_red_steel
+
+#tfc:vodka
+- tfc:vodka
+- tfc:flowing_vodka
+
+#forge:liquid_uranium_239
+- antimatter_shared:liquid_uranium_239
+- antimatter_shared:flowing_liquid_uranium_239
+
+#forge:liquid_uranium_238
+- antimatter_shared:liquid_uranium_238
+- antimatter_shared:flowing_liquid_uranium_238
+
+#forge:liquid_uranium_237
+- antimatter_shared:liquid_uranium_237
+- antimatter_shared:flowing_liquid_uranium_237
+
+#tfc:black_dye
+- tfc:black_dye
+- tfc:flowing_black_dye
+
+#forge:liquid_uranium_236
+- antimatter_shared:liquid_uranium_236
+- antimatter_shared:flowing_liquid_uranium_236
+
+#forge:liquid_uranium_235
+- antimatter_shared:liquid_uranium_235
+- antimatter_shared:flowing_liquid_uranium_235
+
+#forge:liquid_uranium_234
+- antimatter_shared:liquid_uranium_234
+- antimatter_shared:flowing_liquid_uranium_234
+
+#forge:liquid_uranium_233
+- antimatter_shared:liquid_uranium_233
+- antimatter_shared:flowing_liquid_uranium_233
+
+#tfc:milks
+- minecraft:milk
+
+#forge:liquid_uranium_232
+- antimatter_shared:liquid_uranium_232
+- antimatter_shared:flowing_liquid_uranium_232
+
+#forge:liquid_niobium
+- antimatter_shared:liquid_niobium
+- antimatter_shared:flowing_liquid_niobium
+
+#forge:dimethyldichlorosilane
+- antimatter_shared:liquid_dimethyldichlorosilane
+- antimatter_shared:flowing_liquid_dimethyldichlorosilane
+
+#forge:liquid_nitration_mixture
+- antimatter_shared:liquid_nitration_mixture
+- antimatter_shared:flowing_liquid_nitration_mixture
+
+#forge:uranium_237_hexafluoride
+- antimatter_shared:gas_uranium_237_hexafluoride
+- antimatter_shared:flowing_gas_uranium_237_hexafluoride
+
+#forge:hydrochloric_acid
+- antimatter_shared:liquid_hydrochloric_acid
+- antimatter_shared:flowing_liquid_hydrochloric_acid
+
+#forge:liquid_biomass
+- antimatter_shared:liquid_biomass
+- antimatter_shared:flowing_liquid_biomass
+
+#forge:plasma_oxygen
+- antimatter_shared:plasma_oxygen
+- antimatter_shared:flowing_plasma_oxygen
+
+#forge:neptunium_237
+- antimatter_shared:liquid_neptunium_237
+- antimatter_shared:flowing_liquid_neptunium_237
+
+#forge:neptunium_236
+- antimatter_shared:liquid_neptunium_236
+- antimatter_shared:flowing_liquid_neptunium_236
+
+#forge:neptunium_239
+- antimatter_shared:liquid_neptunium_239
+- antimatter_shared:flowing_liquid_neptunium_239
+
+#forge:neptunium_238
+- antimatter_shared:liquid_neptunium_238
+- antimatter_shared:flowing_liquid_neptunium_238
+
+#forge:liquid_drilling_fluid
+- antimatter_shared:liquid_drilling_fluid
+- antimatter_shared:flowing_liquid_drilling_fluid
+
+#forge:hydrogen_peroxide
+- antimatter_shared:liquid_hydrogen_peroxide
+- antimatter_shared:flowing_liquid_hydrogen_peroxide
+
+#forge:erbium
+- antimatter_shared:liquid_erbium
+- antimatter_shared:flowing_liquid_erbium
+
+#forge:steam_cracked_refinery_gas
+- antimatter_shared:gas_steam_cracked_refinery_gas
+- antimatter_shared:flowing_gas_steam_cracked_refinery_gas
+
+#forge:liquid_seed_oil
+- antimatter_shared:liquid_seed_oil
+- antimatter_shared:flowing_liquid_seed_oil
+
+#forge:tritanium
+- antimatter_shared:liquid_tritanium
+- antimatter_shared:flowing_liquid_tritanium
+
+#forge:potassium
+- antimatter_shared:liquid_potassium
+- antimatter_shared:flowing_liquid_potassium
+
+#forge:thorium
+- antimatter_shared:liquid_thorium
+- antimatter_shared:flowing_liquid_thorium
+
+#tfc:whiskey
+- tfc:whiskey
+- tfc:flowing_whiskey
+
+#forge:liquid_annealed_copper
+- antimatter_shared:liquid_annealed_copper
+- antimatter_shared:flowing_liquid_annealed_copper
+
+#forge:leached_thorium
+- antimatter_shared:liquid_leached_thorium
+- antimatter_shared:flowing_liquid_leached_thorium
+
+#forge:liquid_californium_250
+- antimatter_shared:liquid_californium_250
+- antimatter_shared:flowing_liquid_californium_250
+
+#forge:gas_butane
+- antimatter_shared:gas_butane
+- antimatter_shared:flowing_gas_butane
+
+#forge:liquid_californium_252
+- antimatter_shared:liquid_californium_252
+- antimatter_shared:flowing_liquid_californium_252
+
+#forge:berkelium_248
+- antimatter_shared:liquid_berkelium_248
+- antimatter_shared:flowing_liquid_berkelium_248
+
+#forge:liquid_californium_251
+- antimatter_shared:liquid_californium_251
+- antimatter_shared:flowing_liquid_californium_251
+
+#forge:gas_dimethylamine
+- antimatter_shared:gas_dimethylamine
+- antimatter_shared:flowing_gas_dimethylamine
+
+#forge:gas_argon
+- antimatter_shared:gas_argon
+- antimatter_shared:flowing_gas_argon
+
+#forge:berkelium_249
+- antimatter_shared:liquid_berkelium_249
+- antimatter_shared:flowing_liquid_berkelium_249
+
+#forge:liquid_osmiridium
+- antimatter_shared:liquid_osmiridium
+- antimatter_shared:flowing_liquid_osmiridium
+
+#forge:liquid_californium_254
+- antimatter_shared:liquid_californium_254
+- antimatter_shared:flowing_liquid_californium_254
+
+#forge:uranium_hexafluoride
+- antimatter_shared:gas_uranium_hexafluoride
+- antimatter_shared:flowing_gas_uranium_hexafluoride
+
+#forge:liquid_californium_253
+- antimatter_shared:liquid_californium_253
+- antimatter_shared:flowing_liquid_californium_253
+
+#forge:liquid_californium_255
+- antimatter_shared:liquid_californium_255
+- antimatter_shared:flowing_liquid_californium_255
+
+#forge:praseodymium
+- antimatter_shared:liquid_praseodymium
+- antimatter_shared:flowing_liquid_praseodymium
+
+#forge:liquid_lithium
+- antimatter_shared:liquid_lithium
+- antimatter_shared:flowing_liquid_lithium
+
+#forge:curium
+- antimatter_shared:liquid_curium
+- antimatter_shared:flowing_liquid_curium
+
+#forge:liquid_steam_cracked_naphtha
+- antimatter_shared:liquid_steam_cracked_naphtha
+- antimatter_shared:flowing_liquid_steam_cracked_naphtha
+
+#forge:liquid_neptunium
+- antimatter_shared:liquid_neptunium
+- antimatter_shared:flowing_liquid_neptunium
+
+#forge:vanadium_steel
+- antimatter_shared:liquid_vanadium_steel
+- antimatter_shared:flowing_liquid_vanadium_steel
+
+#forge:liquid_sterling_silver
+- antimatter_shared:liquid_sterling_silver
+- antimatter_shared:flowing_liquid_sterling_silver
+
+#tfc:blue_dye
+- tfc:blue_dye
+- tfc:flowing_blue_dye
+
+#forge:gas_steam_cracked_butene
+- antimatter_shared:gas_steam_cracked_butene
+- antimatter_shared:flowing_gas_steam_cracked_butene
+
+#tfc:brown_dye
+- tfc:brown_dye
+- tfc:flowing_brown_dye
+
+#forge:gas_hydro_cracked_butene
+- antimatter_shared:gas_hydro_cracked_butene
+- antimatter_shared:flowing_gas_hydro_cracked_butene
+
+#forge:americium
+- antimatter_shared:liquid_americium
+- antimatter_shared:flowing_liquid_americium
+
+#forge:liquid_californium_249
+- antimatter_shared:liquid_californium_249
+- antimatter_shared:flowing_liquid_californium_249
+
+#forge:liquid_californium_248
+- antimatter_shared:liquid_californium_248
+- antimatter_shared:flowing_liquid_californium_248
+
+#forge:indium
+- antimatter_shared:liquid_indium
+- antimatter_shared:flowing_liquid_indium
+
+#forge:liquid_palladium
+- antimatter_shared:liquid_palladium
+- antimatter_shared:flowing_liquid_palladium
+
+#forge:carbon
+- antimatter_shared:liquid_carbon
+- antimatter_shared:flowing_liquid_carbon
+
+#forge:zirconium
+- antimatter_shared:liquid_zirconium
+- antimatter_shared:flowing_liquid_zirconium
+
+#tfc:spring_water
+- tfc:spring_water
+- tfc:flowing_spring_water
+
+#forge:liquid_iridium
+- antimatter_shared:liquid_iridium
+- antimatter_shared:flowing_liquid_iridium
+
+#forge:lead
+- antimatter_shared:liquid_lead
+- antimatter_shared:flowing_liquid_lead
+
+#forge:tritium
+- antimatter_shared:gas_tritium
+- antimatter_shared:flowing_gas_tritium
+
+#forge:hydro_cracked_butane
+- antimatter_shared:gas_hydro_cracked_butane
+- antimatter_shared:flowing_gas_hydro_cracked_butane
+
+#forge:liquid_copper
+- antimatter_shared:liquid_copper
+- antimatter_shared:flowing_liquid_copper
+
+#forge:fish_oil
+- antimatter_shared:liquid_fish_oil
+- antimatter_shared:flowing_liquid_fish_oil
+
+#forge:osmiridium
+- antimatter_shared:liquid_osmiridium
+- antimatter_shared:flowing_liquid_osmiridium
+
+#tfc:usable_in_jug
+- #tfc:drinkables
+
+#forge:superconductor
+- antimatter_shared:liquid_superconductor
+- antimatter_shared:flowing_liquid_superconductor
+
+#forge:brass
+- antimatter_shared:liquid_brass
+- antimatter_shared:flowing_liquid_brass
+
+#forge:liquid_propanol
+- antimatter_shared:liquid_propanol
+- antimatter_shared:flowing_liquid_propanol
+
+#forge:liquid_niobium_titanium
+- antimatter_shared:liquid_niobium_titanium
+- antimatter_shared:flowing_liquid_niobium_titanium
+
+#forge:sulfur_trioxide
+- antimatter_shared:gas_sulfur_trioxide
+- antimatter_shared:flowing_gas_sulfur_trioxide
+
+#forge:indium_concentrate
+- antimatter_shared:liquid_indium_concentrate
+- antimatter_shared:flowing_liquid_indium_concentrate
+
+#tfc:ingredients
+- tfc:brine
+- tfc:curdled_milk
+- tfc:limewater
+- tfc:lye
+- tfc:milk_vinegar
+- tfc:olive_oil
+- tfc:olive_oil_water
+- tfc:tallow
+- tfc:tannin
+- tfc:vinegar
+- #tfc:drinkables
+- #tfc:dyes
+
+#forge:deuterium
+- antimatter_shared:gas_deuterium
+- antimatter_shared:flowing_gas_deuterium
+
+#forge:liquid_indium_concentrate
+- antimatter_shared:liquid_indium_concentrate
+- antimatter_shared:flowing_liquid_indium_concentrate
+
+#forge:liquid_tritanium
+- antimatter_shared:liquid_tritanium
+- antimatter_shared:flowing_liquid_tritanium
+
+#forge:liquid_caesium
+- antimatter_shared:liquid_caesium
+- antimatter_shared:flowing_liquid_caesium
+
+#forge:gas_uranium_240_hexafluoride
+- antimatter_shared:gas_uranium_240_hexafluoride
+- antimatter_shared:flowing_gas_uranium_240_hexafluoride
+
+#forge:liquid_electrum
+- antimatter_shared:liquid_electrum
+- antimatter_shared:flowing_liquid_electrum
+
+#tfc:any_water
+- #tfc:any_infinite_water
+- tfc:spring_water
+- tfc:flowing_spring_water
+
+#forge:polonium_218
+- antimatter_shared:liquid_polonium_218
+- antimatter_shared:flowing_liquid_polonium_218
+
+#forge:polonium_214
+- antimatter_shared:liquid_polonium_214
+- antimatter_shared:flowing_liquid_polonium_214
+
+#forge:liquid_fermented_biomass
+- antimatter_shared:liquid_fermented_biomass
+- antimatter_shared:flowing_liquid_fermented_biomass
+
+#forge:polonium_215
+- antimatter_shared:liquid_polonium_215
+- antimatter_shared:flowing_liquid_polonium_215
+
+#forge:polonium_216
+- antimatter_shared:liquid_polonium_216
+- antimatter_shared:flowing_liquid_polonium_216
+
+#tfc:weak_red_steel
+- tfc:metal/weak_red_steel
+- tfc:metal/flowing_weak_red_steel
+
+#forge:biomass
+- antimatter_shared:liquid_biomass
+- antimatter_shared:flowing_liquid_biomass
+
+#forge:liquid_redstone
+- antimatter_shared:liquid_redstone
+- antimatter_shared:flowing_liquid_redstone
+
+#forge:polonium_211
+- antimatter_shared:liquid_polonium_211
+- antimatter_shared:flowing_liquid_polonium_211
+
+#forge:polonium_213
+- antimatter_shared:liquid_polonium_213
+- antimatter_shared:flowing_liquid_polonium_213
+
+#forge:kanthal
+- antimatter_shared:liquid_kanthal
+- antimatter_shared:flowing_liquid_kanthal
+
+#forge:methane
+- antimatter_shared:gas_methane
+- antimatter_shared:flowing_gas_methane
+
+#forge:astatine
+- antimatter_shared:liquid_astatine
+- antimatter_shared:flowing_liquid_astatine
+
+#forge:polonium
+- antimatter_shared:liquid_polonium
+- antimatter_shared:flowing_liquid_polonium
+
+#forge:liquid_phenol
+- antimatter_shared:liquid_phenol
+- antimatter_shared:flowing_liquid_phenol
+
+#forge:liquid_tungstensteel
+- antimatter_shared:liquid_tungstensteel
+- antimatter_shared:flowing_liquid_tungstensteel
+
+#forge:liquid_rhodium
+- antimatter_shared:liquid_rhodium
+- antimatter_shared:flowing_liquid_rhodium
+
+#forge:blue_vitriol_water_solution
+- antimatter_shared:liquid_blue_vitriol_water_solution
+- antimatter_shared:flowing_liquid_blue_vitriol_water_solution
+
+#forge:gas_radon_219
+- antimatter_shared:gas_radon_219
+- antimatter_shared:flowing_gas_radon_219
+
+#forge:gallium_arsenide
+- antimatter_shared:liquid_gallium_arsenide
+- antimatter_shared:flowing_liquid_gallium_arsenide
+
+#forge:heavy_oil
+- antimatter_shared:liquid_heavy_oil
+- antimatter_shared:flowing_liquid_heavy_oil
+
+#forge:gas_radon_217
+- antimatter_shared:gas_radon_217
+- antimatter_shared:flowing_gas_radon_217
+
+#forge:gas_radon_218
+- antimatter_shared:gas_radon_218
+- antimatter_shared:flowing_gas_radon_218
+
+#forge:vinyl_chloride
+- antimatter_shared:gas_vinyl_chloride
+- antimatter_shared:flowing_gas_vinyl_chloride
+
+#forge:liquid_thorium_234
+- antimatter_shared:liquid_thorium_234
+- antimatter_shared:flowing_liquid_thorium_234
+
+#forge:liquid_thorium_232
+- antimatter_shared:liquid_thorium_232
+- antimatter_shared:flowing_liquid_thorium_232
+
+#forge:liquid_thorium_233
+- antimatter_shared:liquid_thorium_233
+- antimatter_shared:flowing_liquid_thorium_233
+
+#forge:liquid_thorium_230
+- antimatter_shared:liquid_thorium_230
+- antimatter_shared:flowing_liquid_thorium_230
+
+#forge:liquid_thorium_231
+- antimatter_shared:liquid_thorium_231
+- antimatter_shared:flowing_liquid_thorium_231
+
+#forge:gas_propane
+- antimatter_shared:gas_propane
+- antimatter_shared:flowing_gas_propane
+
+#forge:ethylene
+- antimatter_shared:gas_ethylene
+- antimatter_shared:flowing_gas_ethylene
+
+#forge:liquid_polonium
+- antimatter_shared:liquid_polonium
+- antimatter_shared:flowing_liquid_polonium
+
+#forge:steam_cracked_butane
+- antimatter_shared:gas_steam_cracked_butane
+- antimatter_shared:flowing_gas_steam_cracked_butane
+
+#forge:gas_radon_222
+- antimatter_shared:gas_radon_222
+- antimatter_shared:flowing_gas_radon_222
+
+#forge:gas_radon_220
+- antimatter_shared:gas_radon_220
+- antimatter_shared:flowing_gas_radon_220
+
+#forge:gas_thorium_229_hexafluoride
+- antimatter_shared:gas_thorium_229_hexafluoride
+- antimatter_shared:flowing_gas_thorium_229_hexafluoride
+
+#forge:liquid_bio_diesel
+- antimatter_shared:liquid_bio_diesel
+- antimatter_shared:flowing_liquid_bio_diesel
+
+#forge:fermium_255
+- antimatter_shared:liquid_fermium_255
+- antimatter_shared:flowing_liquid_fermium_255
+
+#forge:liquid_thorium_229
+- antimatter_shared:liquid_thorium_229
+- antimatter_shared:flowing_liquid_thorium_229
+
+#forge:fermium_259
+- antimatter_shared:liquid_fermium_259
+- antimatter_shared:flowing_liquid_fermium_259
+
+#forge:fermium_258
+- antimatter_shared:liquid_fermium_258
+- antimatter_shared:flowing_liquid_fermium_258
+
+#forge:liquid_thorium_227
+- antimatter_shared:liquid_thorium_227
+- antimatter_shared:flowing_liquid_thorium_227
+
+#forge:fermium_257
+- antimatter_shared:liquid_fermium_257
+- antimatter_shared:flowing_liquid_fermium_257
+
+#forge:liquid_thorium_228
+- antimatter_shared:liquid_thorium_228
+- antimatter_shared:flowing_liquid_thorium_228
+
+#forge:fermium_256
+- antimatter_shared:liquid_fermium_256
+- antimatter_shared:flowing_liquid_fermium_256
+
+#forge:liquid_tantalum
+- antimatter_shared:liquid_tantalum
+- antimatter_shared:flowing_liquid_tantalum
+
+#forge:liquid_magnetic_neodymium
+- antimatter_shared:liquid_magnetic_neodymium
+- antimatter_shared:flowing_liquid_magnetic_neodymium
+
+#forge:liquid_strontium
+- antimatter_shared:liquid_strontium
+- antimatter_shared:flowing_liquid_strontium
+
+#forge:liquid_molybdenum
+- antimatter_shared:liquid_molybdenum
+- antimatter_shared:flowing_liquid_molybdenum
+
+#forge:liquid_naphtha
+- antimatter_shared:liquid_naphtha
+- antimatter_shared:flowing_liquid_naphtha
+
+#forge:liquid_anti_matter
+- antimatter_shared:liquid_anti_matter
+- antimatter_shared:flowing_liquid_anti_matter
+
+#forge:plasma_xenon
+- antimatter_shared:plasma_xenon
+- antimatter_shared:flowing_plasma_xenon
+
+#forge:liquid_leached_thorium
+- antimatter_shared:liquid_leached_thorium
+- antimatter_shared:flowing_liquid_leached_thorium
+
+#tfc:nickel
+- tfc:metal/nickel
+- tfc:metal/flowing_nickel
+
+#forge:gas_helium_3
+- antimatter_shared:gas_helium_3
+- antimatter_shared:flowing_gas_helium_3
+
+#forge:liquid_butenol
+- antimatter_shared:liquid_butenol
+- antimatter_shared:flowing_liquid_butenol
+
+#forge:liquid_ytterbium
+- antimatter_shared:liquid_ytterbium
+- antimatter_shared:flowing_liquid_ytterbium
+
+#forge:liquid_mendelevium
+- antimatter_shared:liquid_mendelevium
+- antimatter_shared:flowing_liquid_mendelevium
+
+#forge:californium
+- antimatter_shared:liquid_californium
+- antimatter_shared:flowing_liquid_californium
+
+#forge:liquid_diluted_sulfuric_acid
+- antimatter_shared:liquid_diluted_sulfuric_acid
+- antimatter_shared:flowing_liquid_diluted_sulfuric_acid
+
+#forge:hydro_cracked_propane
+- antimatter_shared:gas_hydro_cracked_propane
+- antimatter_shared:flowing_gas_hydro_cracked_propane
+
+#forge:berkelium_250
+- antimatter_shared:liquid_berkelium_250
+- antimatter_shared:flowing_liquid_berkelium_250
+
+#forge:berkelium_251
+- antimatter_shared:liquid_berkelium_251
+- antimatter_shared:flowing_liquid_berkelium_251
+
+#forge:liquid_leached_uranium
+- antimatter_shared:liquid_leached_uranium
+- antimatter_shared:flowing_liquid_leached_uranium
+
+#forge:liquid_zirconium
+- antimatter_shared:liquid_zirconium
+- antimatter_shared:flowing_liquid_zirconium
+
+#tfc:pink_dye
+- tfc:pink_dye
+- tfc:flowing_pink_dye
+
+#forge:radon
+- antimatter_shared:gas_radon
+- antimatter_shared:flowing_gas_radon
+
+#forge:fermium_260
+- antimatter_shared:liquid_fermium_260
+- antimatter_shared:flowing_liquid_fermium_260
+
+#forge:cerium
+- antimatter_shared:liquid_cerium
+- antimatter_shared:flowing_liquid_cerium
+
+#tfc:unknown
+- tfc:metal/unknown
+- tfc:metal/flowing_unknown
+
+#forge:liquid_promethium
+- antimatter_shared:liquid_promethium
+- antimatter_shared:flowing_liquid_promethium
+
+#forge:holmium
+- antimatter_shared:liquid_holmium
+- antimatter_shared:flowing_liquid_holmium
+
+#forge:bronze
+- antimatter_shared:liquid_bronze
+- antimatter_shared:flowing_liquid_bronze
+
+#forge:neptunium
+- antimatter_shared:liquid_neptunium
+- antimatter_shared:flowing_liquid_neptunium
+
+#forge:thorium_230_hexafluoride
+- antimatter_shared:gas_thorium_230_hexafluoride
+- antimatter_shared:flowing_gas_thorium_230_hexafluoride
+
+#forge:gas_butene
+- antimatter_shared:gas_butene
+- antimatter_shared:flowing_gas_butene
+
+#forge:magnetic_neodymium
+- antimatter_shared:liquid_magnetic_neodymium
+- antimatter_shared:flowing_liquid_magnetic_neodymium
+
+#tfc:blue_steel
+- tfc:metal/blue_steel
+- tfc:metal/flowing_blue_steel
+
+#forge:polyvinyl_acetate
+- antimatter_shared:liquid_polyvinyl_acetate
+- antimatter_shared:flowing_liquid_polyvinyl_acetate
+
+#forge:gas_uranium_233_hexafluoride
+- antimatter_shared:gas_uranium_233_hexafluoride
+- antimatter_shared:flowing_gas_uranium_233_hexafluoride
+
+#tfc:bismuth
+- tfc:metal/bismuth
+- tfc:metal/flowing_bismuth
+
+#forge:yttrium_barium_cuprate
+- antimatter_shared:liquid_yttrium_barium_cuprate
+- antimatter_shared:flowing_liquid_yttrium_barium_cuprate
+
+#forge:liquid_butanol
+- antimatter_shared:liquid_butanol
+- antimatter_shared:flowing_liquid_butanol
+
+#forge:gas_hydro_cracked_butane
+- antimatter_shared:gas_hydro_cracked_butane
+- antimatter_shared:flowing_gas_hydro_cracked_butane
+
+#forge:uu_amplifier
+- antimatter_shared:liquid_uu_amplifier
+- antimatter_shared:flowing_liquid_uu_amplifier
+
+#forge:liquid_naquadria
+- antimatter_shared:liquid_naquadria
+- antimatter_shared:flowing_liquid_naquadria
+
+#forge:liquid_polyvinyl_chloride
+- antimatter_shared:liquid_polyvinyl_chloride
+- antimatter_shared:flowing_liquid_polyvinyl_chloride
+
+#forge:liquid_brass
+- antimatter_shared:liquid_brass
+- antimatter_shared:flowing_liquid_brass
+
+#forge:nitrogen_dioxide
+- antimatter_shared:gas_nitrogen_dioxide
+- antimatter_shared:flowing_gas_nitrogen_dioxide
+
+#forge:annealed_copper
+- antimatter_shared:liquid_annealed_copper
+- antimatter_shared:flowing_liquid_annealed_copper
+
+#forge:gas_hydro_cracked_refinery_gas
+- antimatter_shared:gas_hydro_cracked_refinery_gas
+- antimatter_shared:flowing_gas_hydro_cracked_refinery_gas
+
+#forge:liquid_blue_vitriol_water_solution
+- antimatter_shared:liquid_blue_vitriol_water_solution
+- antimatter_shared:flowing_liquid_blue_vitriol_water_solution
+
+#forge:hydro_cracked_butene
+- antimatter_shared:gas_hydro_cracked_butene
+- antimatter_shared:flowing_gas_hydro_cracked_butene
+
+#forge:redstone
+- antimatter_shared:liquid_redstone
+- antimatter_shared:flowing_liquid_redstone
+
+#forge:liquid_gallium
+- antimatter_shared:liquid_gallium
+- antimatter_shared:flowing_liquid_gallium
+
+#forge:californium_249
+- antimatter_shared:liquid_californium_249
+- antimatter_shared:flowing_liquid_californium_249
+
+#forge:gold
+- antimatter_shared:liquid_gold
+- antimatter_shared:flowing_liquid_gold
+
+#forge:californium_248
+- antimatter_shared:liquid_californium_248
+- antimatter_shared:flowing_liquid_californium_248
+
+#forge:iodine
+- antimatter_shared:liquid_iodine
+- antimatter_shared:flowing_liquid_iodine
+
+#forge:liquid_polyvinyl_acetate
+- antimatter_shared:liquid_polyvinyl_acetate
+- antimatter_shared:flowing_liquid_polyvinyl_acetate
+
+#forge:gas_chloromethane
+- antimatter_shared:gas_chloromethane
+- antimatter_shared:flowing_gas_chloromethane
+
+#forge:liquid_einsteinium_253
+- antimatter_shared:liquid_einsteinium_253
+- antimatter_shared:flowing_liquid_einsteinium_253
+
+#forge:liquid_einsteinium_254
+- antimatter_shared:liquid_einsteinium_254
+- antimatter_shared:flowing_liquid_einsteinium_254
+
+#forge:liquid_einsteinium_255
+- antimatter_shared:liquid_einsteinium_255
+- antimatter_shared:flowing_liquid_einsteinium_255
+
+#forge:liquid_einsteinium_256
+- antimatter_shared:liquid_einsteinium_256
+- antimatter_shared:flowing_liquid_einsteinium_256
+
+#forge:gas_air
+- antimatter_shared:gas_air
+- antimatter_shared:flowing_gas_air
+
+#forge:naquadah
+- antimatter_shared:liquid_naquadah
+- antimatter_shared:flowing_liquid_naquadah
+
+#forge:bio_diesel
+- antimatter_shared:liquid_bio_diesel
+- antimatter_shared:flowing_liquid_bio_diesel
+
+#forge:liquid_nickel_zinc_ferrite
+- antimatter_shared:liquid_nickel_zinc_ferrite
+- antimatter_shared:flowing_liquid_nickel_zinc_ferrite
+
+#forge:gas_uranium_234_hexafluoride
+- antimatter_shared:gas_uranium_234_hexafluoride
+- antimatter_shared:flowing_gas_uranium_234_hexafluoride
+
+#forge:liquid_superconductor
+- antimatter_shared:liquid_superconductor
+- antimatter_shared:flowing_liquid_superconductor
+
+#forge:liquid_silver
+- antimatter_shared:liquid_silver
+- antimatter_shared:flowing_liquid_silver
+
+#forge:sulfuric_naphtha
+- antimatter_shared:liquid_sulfuric_naphtha
+- antimatter_shared:flowing_liquid_sulfuric_naphtha
+
+#forge:liquid_europium
+- antimatter_shared:liquid_europium
+- antimatter_shared:flowing_liquid_europium
+
+#forge:gas_ethane
+- antimatter_shared:gas_ethane
+- antimatter_shared:flowing_gas_ethane
+
+#forge:liquid_lutetium
+- antimatter_shared:liquid_lutetium
+- antimatter_shared:flowing_liquid_lutetium
+
+#forge:niobium_titanium
+- antimatter_shared:liquid_niobium_titanium
+- antimatter_shared:flowing_liquid_niobium_titanium
+
+#forge:liquid_benzene
+- antimatter_shared:liquid_benzene
+- antimatter_shared:flowing_liquid_benzene
+
+#forge:gas_ethylene
+- antimatter_shared:gas_ethylene
+- antimatter_shared:flowing_gas_ethylene
+
+#forge:gas_radon
+- antimatter_shared:gas_radon
+- antimatter_shared:flowing_gas_radon
+
+#forge:californium_252
+- antimatter_shared:liquid_californium_252
+- antimatter_shared:flowing_liquid_californium_252
+
+#forge:californium_253
+- antimatter_shared:liquid_californium_253
+- antimatter_shared:flowing_liquid_californium_253
+
+#tfc:usable_in_barrel
+- #tfc:ingredients
+
+#forge:californium_250
+- antimatter_shared:liquid_californium_250
+- antimatter_shared:flowing_liquid_californium_250
+
+#forge:californium_251
+- antimatter_shared:liquid_californium_251
+- antimatter_shared:flowing_liquid_californium_251
+
+#forge:californium_254
+- antimatter_shared:liquid_californium_254
+- antimatter_shared:flowing_liquid_californium_254
+
+#forge:californium_255
+- antimatter_shared:liquid_californium_255
+- antimatter_shared:flowing_liquid_californium_255
+
+#forge:yttrium
+- antimatter_shared:liquid_yttrium
+- antimatter_shared:flowing_liquid_yttrium
+
+#tfc:infinite_water
+- #tfc:fresh_water
+- tfc:salt_water
+
+#tfc:sterling_silver
+- tfc:metal/sterling_silver
+- tfc:metal/flowing_sterling_silver
+
+#forge:mendelevium_260
+- antimatter_shared:liquid_mendelevium_260
+- antimatter_shared:flowing_liquid_mendelevium_260
+
+#forge:liquid_dimethylhydrazine
+- antimatter_shared:liquid_dimethylhydrazine
+- antimatter_shared:flowing_liquid_dimethylhydrazine
+
+#forge:liquid_methyl_acetate
+- antimatter_shared:liquid_methyl_acetate
+- antimatter_shared:flowing_liquid_methyl_acetate
+
+#tfc:orange_dye
+- tfc:orange_dye
+- tfc:flowing_orange_dye
+
+#forge:liquid_netherite
+- antimatter_shared:liquid_netherite
+- antimatter_shared:flowing_liquid_netherite
+
+#forge:hydro_cracked_naphtha
+- antimatter_shared:liquid_hydro_cracked_naphtha
+- antimatter_shared:flowing_liquid_hydro_cracked_naphtha
+
+#forge:liquid_cumene
+- antimatter_shared:liquid_cumene
+- antimatter_shared:flowing_liquid_cumene
+
+#forge:polyvinyl_chloride
+- antimatter_shared:liquid_polyvinyl_chloride
+- antimatter_shared:flowing_liquid_polyvinyl_chloride
+
+#forge:steam_cracked_ethane
+- antimatter_shared:gas_steam_cracked_ethane
+- antimatter_shared:flowing_gas_steam_cracked_ethane
+
+#forge:liquid_vanadium_steel
+- antimatter_shared:liquid_vanadium_steel
+- antimatter_shared:flowing_liquid_vanadium_steel
+
+#forge:raw_oil
+- antimatter_shared:liquid_raw_oil
+- antimatter_shared:flowing_liquid_raw_oil
+
+#forge:gas_uranium_235_hexafluoride
+- antimatter_shared:gas_uranium_235_hexafluoride
+- antimatter_shared:flowing_gas_uranium_235_hexafluoride
+
+#tfc:dyes
+- tfc:white_dye
+- tfc:orange_dye
+- tfc:magenta_dye
+- tfc:light_blue_dye
+- tfc:yellow_dye
+- tfc:lime_dye
+- tfc:pink_dye
+- tfc:gray_dye
+- tfc:light_gray_dye
+- tfc:cyan_dye
+- tfc:purple_dye
+- tfc:blue_dye
+- tfc:brown_dye
+- tfc:green_dye
+- tfc:red_dye
+- tfc:black_dye
+
+#forge:liquid_astatine_215
+- antimatter_shared:liquid_astatine_215
+- antimatter_shared:flowing_liquid_astatine_215
+
+#forge:liquid_fish_oil
+- antimatter_shared:liquid_fish_oil
+- antimatter_shared:flowing_liquid_fish_oil
+
+#tfc:cyan_dye
+- tfc:cyan_dye
+- tfc:flowing_cyan_dye
+
+#forge:methanol
+- antimatter_shared:liquid_methanol
+- antimatter_shared:flowing_liquid_methanol
+
+#forge:liquid_heavy_oil
+- antimatter_shared:liquid_heavy_oil
+- antimatter_shared:flowing_liquid_heavy_oil
+
+#forge:liquid_ultimet
+- antimatter_shared:liquid_ultimet
+- antimatter_shared:flowing_liquid_ultimet
+
+#forge:diesel
+- antimatter_shared:liquid_diesel
+- antimatter_shared:flowing_liquid_diesel
+
+#tfc:lime_dye
+- tfc:lime_dye
+- tfc:flowing_lime_dye
+
+#forge:thorium_tetrafluoride
+- antimatter_shared:gas_thorium_tetrafluoride
+- antimatter_shared:flowing_gas_thorium_tetrafluoride
+
+#forge:thorium_227
+- antimatter_shared:liquid_thorium_227
+- antimatter_shared:flowing_liquid_thorium_227
+
+#forge:gas_propene
+- antimatter_shared:gas_propene
+- antimatter_shared:flowing_gas_propene
+
+#forge:thorium_228
+- antimatter_shared:liquid_thorium_228
+- antimatter_shared:flowing_liquid_thorium_228
+
+#forge:thorium_229
+- antimatter_shared:liquid_thorium_229
+- antimatter_shared:flowing_liquid_thorium_229
+
+#forge:butadiene
+- antimatter_shared:gas_butadiene
+- antimatter_shared:flowing_gas_butadiene
+
+#forge:mercury
+- antimatter_shared:liquid_mercury
+- antimatter_shared:flowing_liquid_mercury
+
+#forge:gas_refinery_gas
+- antimatter_shared:gas_refinery_gas
+- antimatter_shared:flowing_gas_refinery_gas
+
+#forge:creosote
+- antimatter_shared:liquid_creosote
+- antimatter_shared:flowing_liquid_creosote
+
+#forge:hydro_cracked_ethane
+- antimatter_shared:gas_hydro_cracked_ethane
+- antimatter_shared:flowing_gas_hydro_cracked_ethane
+
+#forge:steam_cracked_butene
+- antimatter_shared:gas_steam_cracked_butene
+- antimatter_shared:flowing_gas_steam_cracked_butene
+
+#forge:liquid_magnetic_steel
+- antimatter_shared:liquid_magnetic_steel
+- antimatter_shared:flowing_liquid_magnetic_steel
+
+#forge:magnesium
+- antimatter_shared:liquid_magnesium
+- antimatter_shared:flowing_liquid_magnesium
+
+#forge:argon
+- antimatter_shared:gas_argon
+- antimatter_shared:flowing_gas_argon
+
+#forge:thorium_231_hexafluoride
+- antimatter_shared:gas_thorium_231_hexafluoride
+- antimatter_shared:flowing_gas_thorium_231_hexafluoride
+
+#forge:liquid_polystyrene
+- antimatter_shared:liquid_polystyrene
+- antimatter_shared:flowing_liquid_polystyrene
+
+#forge:ethenol
+- antimatter_shared:liquid_ethenol
+- antimatter_shared:flowing_liquid_ethenol
+
+#tfc:hydrating
+- #tfc:any_fresh_water
+
+#forge:liquid_radium_228
+- antimatter_shared:liquid_radium_228
+- antimatter_shared:flowing_liquid_radium_228
+
+#forge:liquid_heavy_diesel
+- antimatter_shared:liquid_heavy_diesel
+- antimatter_shared:flowing_liquid_heavy_diesel
+
+#forge:thorium_230
+- antimatter_shared:liquid_thorium_230
+- antimatter_shared:flowing_liquid_thorium_230
+
+#forge:liquid_red_steel
+- antimatter_shared:liquid_red_steel
+- antimatter_shared:flowing_liquid_red_steel
+
+#forge:liquid_sulfuric_acid
+- antimatter_shared:liquid_sulfuric_acid
+- antimatter_shared:flowing_liquid_sulfuric_acid
+
+#forge:liquid_thallium_209
+- antimatter_shared:liquid_thallium_209
+- antimatter_shared:flowing_liquid_thallium_209
+
+#forge:gas_dinitrogen_tetroxide
+- antimatter_shared:gas_dinitrogen_tetroxide
+- antimatter_shared:flowing_gas_dinitrogen_tetroxide
+
+#forge:thorium_233
+- antimatter_shared:liquid_thorium_233
+- antimatter_shared:flowing_liquid_thorium_233
+
+#forge:thorium_234
+- antimatter_shared:liquid_thorium_234
+- antimatter_shared:flowing_liquid_thorium_234
+
+#forge:liquid_thallium_207
+- antimatter_shared:liquid_thallium_207
+- antimatter_shared:flowing_liquid_thallium_207
+
+#forge:blue_steel
+- antimatter_shared:liquid_blue_steel
+- antimatter_shared:flowing_liquid_blue_steel
+
+#forge:thorium_231
+- antimatter_shared:liquid_thorium_231
+- antimatter_shared:flowing_liquid_thorium_231
+
+#forge:thorium_232
+- antimatter_shared:liquid_thorium_232
+- antimatter_shared:flowing_liquid_thorium_232
+
+#forge:liquid_manganese
+- antimatter_shared:liquid_manganese
+- antimatter_shared:flowing_liquid_manganese
+
+#forge:sterling_silver
+- antimatter_shared:liquid_sterling_silver
+- antimatter_shared:flowing_liquid_sterling_silver
+
+#forge:light_oil
+- antimatter_shared:liquid_light_oil
+- antimatter_shared:flowing_liquid_light_oil
+
+#forge:liquid_astatine_218
+- antimatter_shared:liquid_astatine_218
+- antimatter_shared:flowing_liquid_astatine_218
+
+#forge:steam_cracked_light_fuel
+- antimatter_shared:liquid_steam_cracked_light_fuel
+- antimatter_shared:flowing_liquid_steam_cracked_light_fuel
+
+#forge:liquid_astatine_217
+- antimatter_shared:liquid_astatine_217
+- antimatter_shared:flowing_liquid_astatine_217
+
+#forge:liquid_astatine_219
+- antimatter_shared:liquid_astatine_219
+- antimatter_shared:flowing_liquid_astatine_219
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:liquid_polyethylene
+- antimatter_shared:liquid_polyethylene
+- antimatter_shared:flowing_liquid_polyethylene
+
+#forge:hydro_cracked_propene
+- antimatter_shared:gas_hydro_cracked_propene
+- antimatter_shared:flowing_gas_hydro_cracked_propene
+
+#forge:mendelevium_259
+- antimatter_shared:liquid_mendelevium_259
+- antimatter_shared:flowing_liquid_mendelevium_259
+
+#forge:liquid_cobalt_brass
+- antimatter_shared:liquid_cobalt_brass
+- antimatter_shared:flowing_liquid_cobalt_brass
+
+#forge:liquid_radium_225
+- antimatter_shared:liquid_radium_225
+- antimatter_shared:flowing_liquid_radium_225
+
+#forge:liquid_radium_226
+- antimatter_shared:liquid_radium_226
+- antimatter_shared:flowing_liquid_radium_226
+
+#forge:liquid_radium_223
+- antimatter_shared:liquid_radium_223
+- antimatter_shared:flowing_liquid_radium_223
+
+#tfc:alcohols
+- tfc:beer
+- tfc:cider
+- tfc:rum
+- tfc:sake
+- tfc:vodka
+- tfc:whiskey
+- tfc:corn_whiskey
+- tfc:rye_whiskey
+
+#forge:liquid_radium_224
+- antimatter_shared:liquid_radium_224
+- antimatter_shared:flowing_liquid_radium_224
+
+#forge:liquid_radium_221
+- antimatter_shared:liquid_radium_221
+- antimatter_shared:flowing_liquid_radium_221
+
+#forge:liquid_thallium_210
+- antimatter_shared:liquid_thallium_210
+- antimatter_shared:flowing_liquid_thallium_210
+
+#forge:vibranium
+- antimatter_shared:liquid_vibranium
+- antimatter_shared:flowing_liquid_vibranium
+
+#tfc:water
+- #tfc:infinite_water
+- tfc:spring_water
+
+#tfc:purple_dye
+- tfc:purple_dye
+- tfc:flowing_purple_dye
+
+#forge:liquid_einsteinium
+- antimatter_shared:liquid_einsteinium
+- antimatter_shared:flowing_liquid_einsteinium
+
+#forge:radium_223
+- antimatter_shared:liquid_radium_223
+- antimatter_shared:flowing_liquid_radium_223
+
+#tfc:cider
+- tfc:cider
+- tfc:flowing_cider
+
+#forge:radium_225
+- antimatter_shared:liquid_radium_225
+- antimatter_shared:flowing_liquid_radium_225
+
+#forge:radium_224
+- antimatter_shared:liquid_radium_224
+- antimatter_shared:flowing_liquid_radium_224
+
+#forge:radium_226
+- antimatter_shared:liquid_radium_226
+- antimatter_shared:flowing_liquid_radium_226
+
+#forge:liquid_technetium
+- antimatter_shared:liquid_technetium
+- antimatter_shared:flowing_liquid_technetium
+
+#forge:liquid_hydro_cracked_heavy_fuel
+- antimatter_shared:liquid_hydro_cracked_heavy_fuel
+- antimatter_shared:flowing_liquid_hydro_cracked_heavy_fuel
+
+#forge:radium_228
+- antimatter_shared:liquid_radium_228
+- antimatter_shared:flowing_liquid_radium_228
+
+#forge:tungsten
+- antimatter_shared:liquid_tungsten
+- antimatter_shared:flowing_liquid_tungsten
+
+#forge:gas_ethenone
+- antimatter_shared:gas_ethenone
+- antimatter_shared:flowing_gas_ethenone
+
+#forge:uranium_236_hexafluoride
+- antimatter_shared:gas_uranium_236_hexafluoride
+- antimatter_shared:flowing_gas_uranium_236_hexafluoride
+
+#forge:radium_221
+- antimatter_shared:liquid_radium_221
+- antimatter_shared:flowing_liquid_radium_221
+
+#forge:francium
+- antimatter_shared:liquid_francium
+- antimatter_shared:flowing_liquid_francium
+
+#forge:sulfur_dioxide
+- antimatter_shared:gas_sulfur_dioxide
+- antimatter_shared:flowing_gas_sulfur_dioxide
+
+#forge:hydrogen
+- antimatter_shared:gas_hydrogen
+- antimatter_shared:flowing_gas_hydrogen
+
+#forge:liquid_benzaldehyde
+- antimatter_shared:liquid_benzaldehyde
+- antimatter_shared:flowing_liquid_benzaldehyde
+
+#forge:protactinium
+- antimatter_shared:liquid_protactinium
+- antimatter_shared:flowing_liquid_protactinium
+
+#forge:liquid_yttrium_barium_cuprate
+- antimatter_shared:liquid_yttrium_barium_cuprate
+- antimatter_shared:flowing_liquid_yttrium_barium_cuprate
+
+#forge:ammonia
+- antimatter_shared:gas_ammonia
+- antimatter_shared:flowing_gas_ammonia
+
+#tfc:gold
+- tfc:metal/gold
+- tfc:metal/flowing_gold
+
+#forge:technetium
+- antimatter_shared:liquid_technetium
+- antimatter_shared:flowing_liquid_technetium
+
+#forge:liquid_tungsten_carbide
+- antimatter_shared:liquid_tungsten_carbide
+- antimatter_shared:flowing_liquid_tungsten_carbide
+
+#forge:naquadria
+- antimatter_shared:liquid_naquadria
+- antimatter_shared:flowing_liquid_naquadria
+
+#forge:gas_uranium_238_hexafluoride
+- antimatter_shared:gas_uranium_238_hexafluoride
+- antimatter_shared:flowing_gas_uranium_238_hexafluoride
+
+#forge:liquid_hypochlorous_acid
+- antimatter_shared:liquid_hypochlorous_acid
+- antimatter_shared:flowing_liquid_hypochlorous_acid
+
+#forge:liquid_rubidium
+- antimatter_shared:liquid_rubidium
+- antimatter_shared:flowing_liquid_rubidium
+
+#forge:dimethylhydrazine
+- antimatter_shared:liquid_dimethylhydrazine
+- antimatter_shared:flowing_liquid_dimethylhydrazine
+
+#forge:hypochlorous_acid
+- antimatter_shared:liquid_hypochlorous_acid
+- antimatter_shared:flowing_liquid_hypochlorous_acid
+
+#forge:anti_matter
+- antimatter_shared:liquid_anti_matter
+- antimatter_shared:flowing_liquid_anti_matter
+
+#forge:liquid_sulfuric_naphtha
+- antimatter_shared:liquid_sulfuric_naphtha
+- antimatter_shared:flowing_liquid_sulfuric_naphtha
+
+#forge:gas_uranium_236_hexafluoride
+- antimatter_shared:gas_uranium_236_hexafluoride
+- antimatter_shared:flowing_gas_uranium_236_hexafluoride
+
+#forge:lutetium
+- antimatter_shared:liquid_lutetium
+- antimatter_shared:flowing_liquid_lutetium
+
+#forge:liquid_americium_242
+- antimatter_shared:liquid_americium_242
+- antimatter_shared:flowing_liquid_americium_242
+
+#forge:liquid_americium_241
+- antimatter_shared:liquid_americium_241
+- antimatter_shared:flowing_liquid_americium_241
+
+#forge:liquid_americium_244
+- antimatter_shared:liquid_americium_244
+- antimatter_shared:flowing_liquid_americium_244
+
+#forge:ethanol
+- antimatter_shared:liquid_ethanol
+- antimatter_shared:flowing_liquid_ethanol
+
+#forge:aluminium
+- antimatter_shared:liquid_aluminium
+- antimatter_shared:flowing_liquid_aluminium
+
+#forge:bisphenol_a
+- antimatter_shared:liquid_bisphenol_a
+- antimatter_shared:flowing_liquid_bisphenol_a
+
+#forge:liquid_epichlorohydrin
+- antimatter_shared:liquid_epichlorohydrin
+- antimatter_shared:flowing_liquid_epichlorohydrin
+
+#forge:coolant
+- antimatter_shared:liquid_coolant
+- antimatter_shared:flowing_liquid_coolant
+
+#forge:liquid_light_oil
+- antimatter_shared:liquid_light_oil
+- antimatter_shared:flowing_liquid_light_oil
+
+#forge:liquid_fermium_255
+- antimatter_shared:liquid_fermium_255
+- antimatter_shared:flowing_liquid_fermium_255
+
+#forge:liquid_fermium_256
+- antimatter_shared:liquid_fermium_256
+- antimatter_shared:flowing_liquid_fermium_256
+
+#forge:rhenium
+- antimatter_shared:liquid_rhenium
+- antimatter_shared:flowing_liquid_rhenium
+
+#forge:liquid_fermium_257
+- antimatter_shared:liquid_fermium_257
+- antimatter_shared:flowing_liquid_fermium_257
+
+#forge:gas_helium
+- antimatter_shared:gas_helium
+- antimatter_shared:flowing_gas_helium
+
+#forge:liquid_fermium_258
+- antimatter_shared:liquid_fermium_258
+- antimatter_shared:flowing_liquid_fermium_258
+
+#forge:liquid_fermium_259
+- antimatter_shared:liquid_fermium_259
+- antimatter_shared:flowing_liquid_fermium_259
+
+#forge:liquid_americium_246
+- antimatter_shared:liquid_americium_246
+- antimatter_shared:flowing_liquid_americium_246
+
+#forge:liquid_americium_245
+- antimatter_shared:liquid_americium_245
+- antimatter_shared:flowing_liquid_americium_245
+
+#forge:cetane_boosted_diesel
+- antimatter_shared:liquid_cetane_boosted_diesel
+- antimatter_shared:flowing_liquid_cetane_boosted_diesel
+
+#forge:liquid_zinc
+- antimatter_shared:liquid_zinc
+- antimatter_shared:flowing_liquid_zinc
+
+#forge:liquid_toluene
+- antimatter_shared:liquid_toluene
+- antimatter_shared:flowing_liquid_toluene
+
+#forge:liquid_sodium_carbonate_solution
+- antimatter_shared:liquid_sodium_carbonate_solution
+- antimatter_shared:flowing_liquid_sodium_carbonate_solution
+
+#forge:gas_steam_cracked_propane
+- antimatter_shared:gas_steam_cracked_propane
+- antimatter_shared:flowing_gas_steam_cracked_propane
+
+#forge:liquid_fermium_260
+- antimatter_shared:liquid_fermium_260
+- antimatter_shared:flowing_liquid_fermium_260
+
+#tfc:bronze
+- tfc:metal/bronze
+- tfc:metal/flowing_bronze
+
+#tfc:high_carbon_steel
+- tfc:metal/high_carbon_steel
+- tfc:metal/flowing_high_carbon_steel
+
+#forge:niobium
+- antimatter_shared:liquid_niobium
+- antimatter_shared:flowing_liquid_niobium
+
+#forge:mendelevium
+- antimatter_shared:liquid_mendelevium
+- antimatter_shared:flowing_liquid_mendelevium
+
+#forge:liquid_hot_coolant
+- antimatter_shared:liquid_hot_coolant
+- antimatter_shared:flowing_liquid_hot_coolant
+
+#forge:gas_steam_cracked_ethane
+- antimatter_shared:gas_steam_cracked_ethane
+- antimatter_shared:flowing_gas_steam_cracked_ethane
+
+#forge:bismuth_bronze
+- antimatter_shared:liquid_bismuth_bronze
+- antimatter_shared:flowing_liquid_bismuth_bronze
+
+#forge:magnetic_steel
+- antimatter_shared:liquid_magnetic_steel
+- antimatter_shared:flowing_liquid_magnetic_steel
+
+#forge:tin
+- antimatter_shared:liquid_tin
+- antimatter_shared:flowing_liquid_tin
+
+#forge:cobalt
+- antimatter_shared:liquid_cobalt
+- antimatter_shared:flowing_liquid_cobalt
+
+#tfc:sake
+- tfc:sake
+- tfc:flowing_sake
+
+#forge:liquid_steam_cracked_light_fuel
+- antimatter_shared:liquid_steam_cracked_light_fuel
+- antimatter_shared:flowing_liquid_steam_cracked_light_fuel
+
+#forge:liquid_naquadah
+- antimatter_shared:liquid_naquadah
+- antimatter_shared:flowing_liquid_naquadah
+
+#tfc:cast_iron
+- tfc:metal/cast_iron
+- tfc:metal/flowing_cast_iron
+
+#forge:liquid_cerium
+- antimatter_shared:liquid_cerium
+- antimatter_shared:flowing_liquid_cerium
+
+#forge:uranium_234_hexafluoride
+- antimatter_shared:gas_uranium_234_hexafluoride
+- antimatter_shared:flowing_gas_uranium_234_hexafluoride
+
+#forge:thulium
+- antimatter_shared:liquid_thulium
+- antimatter_shared:flowing_liquid_thulium
+
+#forge:liquid_protactinium
+- antimatter_shared:liquid_protactinium
+- antimatter_shared:flowing_liquid_protactinium
+
+#forge:liquid_vanadium
+- antimatter_shared:liquid_vanadium
+- antimatter_shared:flowing_liquid_vanadium
+
+#forge:uranium_238_hexafluoride
+- antimatter_shared:gas_uranium_238_hexafluoride
+- antimatter_shared:flowing_gas_uranium_238_hexafluoride
+
+#forge:liquid_curium_242
+- antimatter_shared:liquid_curium_242
+- antimatter_shared:flowing_liquid_curium_242
+
+#forge:tetrafluoroethylene
+- antimatter_shared:gas_tetrafluoroethylene
+- antimatter_shared:flowing_gas_tetrafluoroethylene
+
+#forge:liquid_sulfuric_light_diesel
+- antimatter_shared:liquid_sulfuric_light_diesel
+- antimatter_shared:flowing_liquid_sulfuric_light_diesel
+
+#forge:propenol
+- antimatter_shared:liquid_propenol
+- antimatter_shared:flowing_liquid_propenol
+
+#forge:gas_vinyl_chloride
+- antimatter_shared:gas_vinyl_chloride
+- antimatter_shared:flowing_gas_vinyl_chloride
+
+#create:bottomless/deny
+
+#forge:gas_uranium_tetrafluoride
+- antimatter_shared:gas_uranium_tetrafluoride
+- antimatter_shared:flowing_gas_uranium_tetrafluoride
+
+#forge:liquid_curium_245
+- antimatter_shared:liquid_curium_245
+- antimatter_shared:flowing_liquid_curium_245
+
+#forge:liquid_curium_244
+- antimatter_shared:liquid_curium_244
+- antimatter_shared:flowing_liquid_curium_244
+
+#forge:liquid_curium_247
+- antimatter_shared:liquid_curium_247
+- antimatter_shared:flowing_liquid_curium_247
+
+#forge:liquid_curium_246
+- antimatter_shared:liquid_curium_246
+- antimatter_shared:flowing_liquid_curium_246
+
+#forge:liquid_curium_249
+- antimatter_shared:liquid_curium_249
+- antimatter_shared:flowing_liquid_curium_249
+
+#forge:einsteinium_254
+- antimatter_shared:liquid_einsteinium_254
+- antimatter_shared:flowing_liquid_einsteinium_254
+
+#forge:liquid_curium_248
+- antimatter_shared:liquid_curium_248
+- antimatter_shared:flowing_liquid_curium_248
+
+#forge:einsteinium_253
+- antimatter_shared:liquid_einsteinium_253
+- antimatter_shared:flowing_liquid_einsteinium_253
+
+#forge:einsteinium_256
+- antimatter_shared:liquid_einsteinium_256
+- antimatter_shared:flowing_liquid_einsteinium_256
+
+#forge:einsteinium_255
+- antimatter_shared:liquid_einsteinium_255
+- antimatter_shared:flowing_liquid_einsteinium_255
+
+#forge:liquid_curium_250
+- antimatter_shared:liquid_curium_250
+- antimatter_shared:flowing_liquid_curium_250
+
+#forge:air
+- antimatter_shared:gas_air
+- antimatter_shared:flowing_gas_air
+
+#forge:steam_cracked_butadiene
+- antimatter_shared:gas_steam_cracked_butadiene
+- antimatter_shared:flowing_gas_steam_cracked_butadiene
+
+#forge:liquid_thorium
+- antimatter_shared:liquid_thorium
+- antimatter_shared:flowing_liquid_thorium
+
+#forge:liquid_air
+- antimatter_shared:liquid_liquid_air
+- antimatter_shared:flowing_liquid_liquid_air
+
+#forge:neodymium
+- antimatter_shared:liquid_neodymium
+- antimatter_shared:flowing_liquid_neodymium
+
+#forge:liquid_invar
+- antimatter_shared:liquid_invar
+- antimatter_shared:flowing_liquid_invar
+
+#forge:liquid_hssg
+- antimatter_shared:liquid_hssg
+- antimatter_shared:flowing_liquid_hssg
+
+#forge:liquid_hsse
+- antimatter_shared:liquid_hsse
+- antimatter_shared:flowing_liquid_hsse
+
+#forge:liquid_sulfuric_heavy_diesel
+- antimatter_shared:liquid_sulfuric_heavy_diesel
+- antimatter_shared:flowing_liquid_sulfuric_heavy_diesel
+
+#forge:liquid_mendelevium_259
+- antimatter_shared:liquid_mendelevium_259
+- antimatter_shared:flowing_liquid_mendelevium_259
+
+#tfc:tin
+- tfc:metal/tin
+- tfc:metal/flowing_tin
+
+#forge:francium_221
+- antimatter_shared:liquid_francium_221
+- antimatter_shared:flowing_liquid_francium_221
+
+#forge:liquid_nickel_sulfate
+- antimatter_shared:liquid_nickel_sulfate
+- antimatter_shared:flowing_liquid_nickel_sulfate
+
+#forge:francium_223
+- antimatter_shared:liquid_francium_223
+- antimatter_shared:flowing_liquid_francium_223
+
+#forge:liquid_liquid_air
+- antimatter_shared:liquid_liquid_air
+- antimatter_shared:flowing_liquid_liquid_air
+
+#forge:liquid_mendelevium_260
+- antimatter_shared:liquid_mendelevium_260
+- antimatter_shared:flowing_liquid_mendelevium_260
+
+#forge:plasma_nickel
+- antimatter_shared:plasma_nickel
+- antimatter_shared:flowing_plasma_nickel
+
+#tfc:bismuth_bronze
+- tfc:metal/bismuth_bronze
+- tfc:metal/flowing_bismuth_bronze
+
+#forge:sulfuric_light_diesel
+- antimatter_shared:liquid_sulfuric_light_diesel
+- antimatter_shared:flowing_liquid_sulfuric_light_diesel
+
+#tfc:weak_steel
+- tfc:metal/weak_steel
+- tfc:metal/flowing_weak_steel
+
+#forge:sodium_carbonate_solution
+- antimatter_shared:liquid_sodium_carbonate_solution
+- antimatter_shared:flowing_liquid_sodium_carbonate_solution
+
+#forge:liquid_francium
+- antimatter_shared:liquid_francium
+- antimatter_shared:flowing_liquid_francium
+
+#forge:uranium_238
+- antimatter_shared:liquid_uranium_238
+- antimatter_shared:flowing_liquid_uranium_238
+
+#forge:uranium_239
+- antimatter_shared:liquid_uranium_239
+- antimatter_shared:flowing_liquid_uranium_239
+
+#forge:uranium_232
+- antimatter_shared:liquid_uranium_232
+- antimatter_shared:flowing_liquid_uranium_232
+
+#forge:nickel
+- antimatter_shared:liquid_nickel
+- antimatter_shared:flowing_liquid_nickel
+- antimatter_shared:gas_nickel
+- antimatter_shared:flowing_gas_nickel
+- antimatter_shared:plasma_nickel
+- antimatter_shared:flowing_plasma_nickel
+
+#forge:uranium_233
+- antimatter_shared:liquid_uranium_233
+- antimatter_shared:flowing_liquid_uranium_233
+
+#forge:liquid_battery_alloy
+- antimatter_shared:liquid_battery_alloy
+- antimatter_shared:flowing_liquid_battery_alloy
+
+#forge:gas_sulfur
+- antimatter_shared:gas_sulfur
+- antimatter_shared:flowing_gas_sulfur
+
+#forge:uranium_236
+- antimatter_shared:liquid_uranium_236
+- antimatter_shared:flowing_liquid_uranium_236
+
+#forge:uranium_237
+- antimatter_shared:liquid_uranium_237
+- antimatter_shared:flowing_liquid_uranium_237
+
+#forge:uranium_234
+- antimatter_shared:liquid_uranium_234
+- antimatter_shared:flowing_liquid_uranium_234
+
+#forge:gas_krypton
+- antimatter_shared:gas_krypton
+- antimatter_shared:flowing_gas_krypton
+
+#forge:uranium_235
+- antimatter_shared:liquid_uranium_235
+- antimatter_shared:flowing_liquid_uranium_235
+
+#forge:phenol
+- antimatter_shared:liquid_phenol
+- antimatter_shared:flowing_liquid_phenol
+
+#forge:liquid_hsss
+- antimatter_shared:liquid_hsss
+- antimatter_shared:flowing_liquid_hsss
+
+#forge:allyl_chloride
+- antimatter_shared:liquid_allyl_chloride
+- antimatter_shared:flowing_liquid_allyl_chloride
+
+#forge:silicon
+- antimatter_shared:liquid_silicon
+- antimatter_shared:flowing_liquid_silicon
+
+#tfc:white_dye
+- tfc:white_dye
+- tfc:flowing_white_dye
+
+#forge:uranium_240
+- antimatter_shared:liquid_uranium_240
+- antimatter_shared:flowing_liquid_uranium_240
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:thorium_233_hexafluoride
+- antimatter_shared:gas_thorium_233_hexafluoride
+- antimatter_shared:flowing_gas_thorium_233_hexafluoride
+
+#forge:carbon_monoxide
+- antimatter_shared:gas_carbon_monoxide
+- antimatter_shared:flowing_gas_carbon_monoxide
+
+#forge:liquid_propenol
+- antimatter_shared:liquid_propenol
+- antimatter_shared:flowing_liquid_propenol
+
+#forge:americium_246
+- antimatter_shared:liquid_americium_246
+- antimatter_shared:flowing_liquid_americium_246
+
+#forge:americium_244
+- antimatter_shared:liquid_americium_244
+- antimatter_shared:flowing_liquid_americium_244
+
+#forge:americium_245
+- antimatter_shared:liquid_americium_245
+- antimatter_shared:flowing_liquid_americium_245
+
+#forge:americium_242
+- antimatter_shared:liquid_americium_242
+- antimatter_shared:flowing_liquid_americium_242
+
+#forge:liquid_gallium_arsenide
+- antimatter_shared:liquid_gallium_arsenide
+- antimatter_shared:flowing_liquid_gallium_arsenide
+
+#forge:americium_241
+- antimatter_shared:liquid_americium_241
+- antimatter_shared:flowing_liquid_americium_241
+
+#forge:liquid_cupronickel
+- antimatter_shared:liquid_cupronickel
+- antimatter_shared:flowing_liquid_cupronickel
+
+#forge:liquid_hafnium
+- antimatter_shared:liquid_hafnium
+- antimatter_shared:flowing_liquid_hafnium
+
+#forge:arsenic
+- antimatter_shared:liquid_arsenic
+- antimatter_shared:flowing_liquid_arsenic
+
+#forge:honey
+- create:flowing_honey
+- create:honey
+- antimatter_shared:liquid_honey
+- antimatter_shared:flowing_liquid_honey
+
+#forge:liquid_rocket_fuel
+- antimatter_shared:liquid_rocket_fuel
+- antimatter_shared:flowing_liquid_rocket_fuel
+
+#forge:liquid_iron
+- antimatter_shared:liquid_iron
+- antimatter_shared:flowing_liquid_iron
+
+#forge:tungsten_carbide
+- antimatter_shared:liquid_tungsten_carbide
+- antimatter_shared:flowing_liquid_tungsten_carbide
+
+#forge:invar
+- antimatter_shared:liquid_invar
+- antimatter_shared:flowing_liquid_invar
+
+#forge:liquid_polytetrafluoroethylene
+- antimatter_shared:liquid_polytetrafluoroethylene
+- antimatter_shared:flowing_liquid_polytetrafluoroethylene
+
+#forge:ruthenium
+- antimatter_shared:liquid_ruthenium
+- antimatter_shared:flowing_liquid_ruthenium
+
+#forge:propanol
+- antimatter_shared:liquid_propanol
+- antimatter_shared:flowing_liquid_propanol
+
+#forge:nitrogen
+- antimatter_shared:gas_nitrogen
+- antimatter_shared:flowing_gas_nitrogen
+- antimatter_shared:plasma_nitrogen
+- antimatter_shared:flowing_plasma_nitrogen
+
+#forge:thorium_dioxide_dinitrate
+- antimatter_shared:liquid_thorium_dioxide_dinitrate
+- antimatter_shared:flowing_liquid_thorium_dioxide_dinitrate
+
+#forge:liquid_americium
+- antimatter_shared:liquid_americium
+- antimatter_shared:flowing_liquid_americium
+
+#tfc:fresh_water
+- minecraft:water
+
+#forge:molybdenum
+- antimatter_shared:liquid_molybdenum
+- antimatter_shared:flowing_liquid_molybdenum
+
+#forge:liquid_tellurium
+- antimatter_shared:liquid_tellurium
+- antimatter_shared:flowing_liquid_tellurium
+
+#forge:liquid_uu_matter
+- antimatter_shared:liquid_uu_matter
+- antimatter_shared:flowing_liquid_uu_matter
+
+#forge:liquid_magnalium
+- antimatter_shared:liquid_magnalium
+- antimatter_shared:flowing_liquid_magnalium
+
+#forge:liquid_rubber
+- antimatter_shared:liquid_rubber
+- antimatter_shared:flowing_liquid_rubber
+
+#forge:liquid_fermium
+- antimatter_shared:liquid_fermium
+- antimatter_shared:flowing_liquid_fermium
+
+#forge:liquid_bismuth_bronze
+- antimatter_shared:liquid_bismuth_bronze
+- antimatter_shared:flowing_liquid_bismuth_bronze
+
+#forge:palladium
+- antimatter_shared:liquid_palladium
+- antimatter_shared:flowing_liquid_palladium
+
+#forge:charcoal_byproducts
+- antimatter_shared:liquid_charcoal_byproducts
+- antimatter_shared:flowing_liquid_charcoal_byproducts
+
+#forge:wood_gas
+- antimatter_shared:gas_wood_gas
+- antimatter_shared:flowing_gas_wood_gas
+
+#forge:gas_thorium_228_hexafluoride
+- antimatter_shared:gas_thorium_228_hexafluoride
+- antimatter_shared:flowing_gas_thorium_228_hexafluoride
+
+#forge:liquid_dimethyldichlorosilane
+- antimatter_shared:liquid_dimethyldichlorosilane
+- antimatter_shared:flowing_liquid_dimethyldichlorosilane
+
+#forge:gas_noble_gases
+- antimatter_shared:gas_noble_gases
+- antimatter_shared:flowing_gas_noble_gases
+
+#forge:liquid_tungsten
+- antimatter_shared:liquid_tungsten
+- antimatter_shared:flowing_liquid_tungsten
+
+#forge:liquid_curium
+- antimatter_shared:liquid_curium
+- antimatter_shared:flowing_liquid_curium
+
+#forge:red_steel
+- antimatter_shared:liquid_red_steel
+- antimatter_shared:flowing_liquid_red_steel
+
+#forge:vanadium
+- antimatter_shared:liquid_vanadium
+- antimatter_shared:flowing_liquid_vanadium
+
+#tfc:usable_in_bell_mold
+- tfc:metal/bronze
+- tfc:metal/gold
+- tfc:metal/brass
+
+#forge:ytterbium
+- antimatter_shared:liquid_ytterbium
+- antimatter_shared:flowing_liquid_ytterbium
+
+#forge:gas_thorium_hexafluoride
+- antimatter_shared:gas_thorium_hexafluoride
+- antimatter_shared:flowing_gas_thorium_hexafluoride
+
+#forge:liquid_erbium
+- antimatter_shared:liquid_erbium
+- antimatter_shared:flowing_liquid_erbium
+
+#forge:manganese
+- antimatter_shared:liquid_manganese
+- antimatter_shared:flowing_liquid_manganese
+
+#forge:liquid_francium_221
+- antimatter_shared:liquid_francium_221
+- antimatter_shared:flowing_liquid_francium_221
+
+#forge:liquid_tin
+- antimatter_shared:liquid_tin
+- antimatter_shared:flowing_liquid_tin
+
+#forge:liquid_francium_223
+- antimatter_shared:liquid_francium_223
+- antimatter_shared:flowing_liquid_francium_223
+
+#forge:battery_alloy
+- antimatter_shared:liquid_battery_alloy
+- antimatter_shared:flowing_liquid_battery_alloy
+
+#forge:liquid_black_bronze
+- antimatter_shared:liquid_black_bronze
+- antimatter_shared:flowing_liquid_black_bronze
+
+#forge:gas_thorium_230_hexafluoride
+- antimatter_shared:gas_thorium_230_hexafluoride
+- antimatter_shared:flowing_gas_thorium_230_hexafluoride
+
+#forge:liquid_plutonium
+- antimatter_shared:liquid_plutonium
+- antimatter_shared:flowing_liquid_plutonium
+
+#tfc:drinkables
+- #tfc:infinite_water
+- #tfc:alcohols
+- #tfc:milks
+
+#forge:liquid_blue_steel
+- antimatter_shared:liquid_blue_steel
+- antimatter_shared:flowing_liquid_blue_steel
+
+#forge:liquid_acetic_acid
+- antimatter_shared:liquid_acetic_acid
+- antimatter_shared:flowing_liquid_acetic_acid
+
+#forge:liquid_neutronium
+- antimatter_shared:liquid_neutronium
+- antimatter_shared:flowing_liquid_neutronium
+
+#tfc:usable_in_wooden_bucket
+- #tfc:ingredients
+
+#forge:gas_natural_gas
+- antimatter_shared:gas_natural_gas
+- antimatter_shared:flowing_gas_natural_gas
+
+#forge:gas_lpg
+- antimatter_shared:gas_lpg
+- antimatter_shared:flowing_gas_lpg
+
+#forge:lead_zinc_solution
+- antimatter_shared:liquid_lead_zinc_solution
+- antimatter_shared:flowing_liquid_lead_zinc_solution
+
+#tfc:red_steel
+- tfc:metal/red_steel
+- tfc:metal/flowing_red_steel
+
+#forge:netherite
+- antimatter_shared:liquid_netherite
+- antimatter_shared:flowing_liquid_netherite
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#forge:benzaldehyde
+- antimatter_shared:liquid_benzaldehyde
+- antimatter_shared:flowing_liquid_benzaldehyde
+
+#forge:liquid_styrene
+- antimatter_shared:liquid_styrene
+- antimatter_shared:flowing_liquid_styrene
+
+#forge:gas_uranium_hexafluoride
+- antimatter_shared:gas_uranium_hexafluoride
+- antimatter_shared:flowing_gas_uranium_hexafluoride
+
+#forge:distilled_water
+- antimatter_shared:liquid_distilled_water
+- antimatter_shared:flowing_liquid_distilled_water
+
+#forge:liquid_cetane_boosted_diesel
+- antimatter_shared:liquid_cetane_boosted_diesel
+- antimatter_shared:flowing_liquid_cetane_boosted_diesel
+
+#forge:liquid_selenium
+- antimatter_shared:liquid_selenium
+- antimatter_shared:flowing_liquid_selenium
+
+#forge:liquid_berkelium_251
+- antimatter_shared:liquid_berkelium_251
+- antimatter_shared:flowing_liquid_berkelium_251
+
+#forge:liquid_berkelium_250
+- antimatter_shared:liquid_berkelium_250
+- antimatter_shared:flowing_liquid_berkelium_250
+
+#forge:uranium_dioxide_dinitrate
+- antimatter_shared:liquid_uranium_dioxide_dinitrate
+- antimatter_shared:flowing_liquid_uranium_dioxide_dinitrate
+
+#forge:nitric_oxide
+- antimatter_shared:gas_nitric_oxide
+- antimatter_shared:flowing_gas_nitric_oxide
+
+#forge:platinum
+- antimatter_shared:liquid_platinum
+- antimatter_shared:flowing_liquid_platinum
+
+#forge:selenium
+- antimatter_shared:liquid_selenium
+- antimatter_shared:flowing_liquid_selenium
+
+#forge:liquid_berkelium
+- antimatter_shared:liquid_berkelium
+- antimatter_shared:flowing_liquid_berkelium
+
+#forge:leached_uranium
+- antimatter_shared:liquid_leached_uranium
+- antimatter_shared:flowing_liquid_leached_uranium
+
+#forge:acetone
+- antimatter_shared:liquid_acetone
+- antimatter_shared:flowing_liquid_acetone
+
+#forge:liquid_berkelium_249
+- antimatter_shared:liquid_berkelium_249
+- antimatter_shared:flowing_liquid_berkelium_249
+
+#forge:lubricant
+- antimatter_shared:liquid_lubricant
+- antimatter_shared:flowing_liquid_lubricant
+
+#forge:liquid_berkelium_248
+- antimatter_shared:liquid_berkelium_248
+- antimatter_shared:flowing_liquid_berkelium_248
+
+#forge:plasma_nitrogen
+- antimatter_shared:plasma_nitrogen
+- antimatter_shared:flowing_plasma_nitrogen
+
+#forge:liquid_titaniumtetrachloride
+- antimatter_shared:liquid_titaniumtetrachloride
+- antimatter_shared:flowing_liquid_titaniumtetrachloride
+
+#forge:gas_sulfuric_gas
+- antimatter_shared:gas_sulfuric_gas
+- antimatter_shared:flowing_gas_sulfuric_gas
+
+#forge:red_alloy
+- antimatter_shared:liquid_red_alloy
+- antimatter_shared:flowing_liquid_red_alloy
+
+#forge:liquid_allyl_chloride
+- antimatter_shared:liquid_allyl_chloride
+- antimatter_shared:flowing_liquid_allyl_chloride
+
+#forge:liquid_platinum
+- antimatter_shared:liquid_platinum
+- antimatter_shared:flowing_liquid_platinum
+
+#forge:liquid_phosphoric_acid
+- antimatter_shared:liquid_phosphoric_acid
+- antimatter_shared:flowing_liquid_phosphoric_acid
+
+#forge:heptanol
+- antimatter_shared:liquid_heptanol
+- antimatter_shared:flowing_liquid_heptanol
+
+#forge:uranium
+- antimatter_shared:liquid_uranium
+- antimatter_shared:flowing_liquid_uranium
+
+#forge:neon
+- antimatter_shared:gas_neon
+- antimatter_shared:flowing_gas_neon
+- antimatter_shared:plasma_neon
+- antimatter_shared:flowing_plasma_neon
+
+#forge:epichlorohydrin
+- antimatter_shared:liquid_epichlorohydrin
+- antimatter_shared:flowing_liquid_epichlorohydrin
+
+#forge:hydrogen_sulfide
+- antimatter_shared:gas_hydrogen_sulfide
+- antimatter_shared:flowing_gas_hydrogen_sulfide
+
+#forge:promethium
+- antimatter_shared:liquid_promethium
+- antimatter_shared:flowing_liquid_promethium
+
+#tfc:brass
+- tfc:metal/brass
+- tfc:metal/flowing_brass
+
+#forge:liquid_steam_cracked_heavy_fuel
+- antimatter_shared:liquid_steam_cracked_heavy_fuel
+- antimatter_shared:flowing_liquid_steam_cracked_heavy_fuel
+
+#forge:liquid_rose_gold
+- antimatter_shared:liquid_rose_gold
+- antimatter_shared:flowing_liquid_rose_gold
+
+#forge:thallium
+- antimatter_shared:liquid_thallium
+- antimatter_shared:flowing_liquid_thallium
+
+#forge:liquid_heptanol
+- antimatter_shared:liquid_heptanol
+- antimatter_shared:flowing_liquid_heptanol
+
+#tfc:high_carbon_blue_steel
+- tfc:metal/high_carbon_blue_steel
+- tfc:metal/flowing_high_carbon_blue_steel
+
+#forge:liquid_epoxid
+- antimatter_shared:liquid_epoxid
+- antimatter_shared:flowing_liquid_epoxid
