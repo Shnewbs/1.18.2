@@ -1,5 +1,5 @@
 // priority: 0
-var TFCStoneTypes = [``,`basalt`,`chalk`,`chert`,`claystone`,`conglomerate`,`dacite`,`diorite`,`dolomite`,`gabbro`,`gneiss`,`granite`,`limestone`,`marble`,`phyllite`,`quartzite`,`rhyolite`,`schist`,`shale`,`slate`,`venus`,`mars`,`moon``mercury`, `endstone`]
+var TFCStoneTypes = [``,`basalt`,`chalk`,`chert`,`claystone`,`conglomerate`,`dacite`,`diorite`,`dolomite`,`gabbro`,`gneiss`,`granite`,`limestone`,`marble`,`phyllite`,`quartzite`,`rhyolite`,`schist`,`shale`,`slate`,`venus`,`mars`,`moon``mercury`,`endstone`,`netherrack`]
 	
 TFCStoneTypes.forEach(stonetype => {
 	let displayMaterial = capfirst(`${stonetype}`)
