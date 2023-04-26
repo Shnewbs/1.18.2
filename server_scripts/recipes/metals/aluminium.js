@@ -94,6 +94,9 @@ if (Platform.isLoaded('tfc')) {
     event.custom({"type": "tfc:quern","ingredient":{"item": `antimatter_shared:crushed_${material}`,"count": 1},"result":{"item": `antimatter_shared:dust_impure_${material}`,"count": 1}})
     event.custom({"type": "tfc:quern","ingredient":{"item": `antimatter_shared:crushed_purified_${material}`,"count": 1},"result":{"item": `antimatter_shared:dust_pure_${material}`,"count": 1}})
 
+
+    
+    event.custom({"type": "tfc:quern","ingredient":{"item": `antimatter_shared:dust_tiny_${material}`,"count": 1},"result":{"item": `minecraft:cyan_dye`,"count": 1}})
 }
 
 
@@ -117,8 +120,45 @@ event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 104),
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 124), `antimatter_shared:crushed_purified_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.crushed.pure`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 132), `antimatter_shared:dust_pure_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.pure`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `antimatter_shared:dust_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.dust`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 1296), `antimatter_shared:block_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.block`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 576), `antimatter_shared:raw_ore_block_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.raw.block`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 1728), `antimatter_shared:gear_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.gear`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 72), `antimatter_shared:bolt_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.bolt`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `antimatter_shared:screw_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.screw`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `antimatter_shared:plate_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.plate`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 72), `antimatter_shared:foil_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.foil`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `antimatter_shared:ring_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.ring`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `antimatter_shared:rod_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.rod`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `antimatter_shared:gear_small_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.gear.small`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `antimatter_shared:wire_${material}_vtiny`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.wire.vtiny`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 576), `antimatter_shared:wire_${material}_tiny`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.wire.tiny`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 1152), `antimatter_shared:wire_${material}_small`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.wire.small`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 2304), `antimatter_shared:wire_${material}_normal`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.wire.normal`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 4608), `antimatter_shared:wire_${material}_large`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.wire.large`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 9216), `antimatter_shared:wire_${material}_huge`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.wire.huge`)
 
-event.recipes.tfc.heating(Fluid.of(`kubejs:${material}_double_ingot`, 288), `antimatter_shared:dust_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.double.ingot`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `kubejs:${material}_double_ingot`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.double.ingot`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:hammer_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.hammer.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `kubejs:screwdriver_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.screwdriver.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 864), `kubejs:wire_cutter_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.wire.cutter.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 576), `kubejs:file_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.file.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 864), `kubejs:plunger_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.plunger.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 576), `kubejs:branch_cutter_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.branch.cutter.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 1728), `kubejs:wrench_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.wrench`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:pickaxe_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.pickaxe.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:propick_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.propick.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:hoe_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.hoe.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:javelin_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.javelin.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:knife_blade_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.knife.blade`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `kubejs:mace_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.mace.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:scythe_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.scythe.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:shovel_head_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.shovel.head`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `kubejs:sword_blade_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.sword.blade`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `kubejs:butchery_knife_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.butchery.knife`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `kubejs:crowbar_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.crowbar`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 6), `kubejs:chain_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.chain`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:buzzsaw_blade_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.buzzsaw.blade`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:chainsaw_blade_${material}`, 660).id(`tfc.heating.${material}`).id(`tfc.heat.${material}.chainsaw.blade`)
 
 //====================================================================================================================================================================\\
 //                                                            Terrafirmacraft - Crafting Table                                                                        \\
