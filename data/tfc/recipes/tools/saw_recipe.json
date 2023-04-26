@@ -1,0 +1,11 @@
+{"type":"antimatter:material","group":"antimatter_saws","pattern":["PPR","FH "],"key":{
+
+    "P":{"material_type":["sword"],"item_tags":[],"items":[],"type":"antimatter:material","id":"primary","inverse":false,"tools":{"saw":true}},
+
+
+
+
+
+    "R":{"material_type":["rod"],"item_tags":[],"items":[],"type":"antimatter:material","id":"secondary","inverse":false,"tags":["handle_tag"]},
+    "F":{"tag":"antimatter:file"},"H":{"tag":"antimatter:hammer"}},
+    "result":{"item":"antimatter:saw","nbt":"{Damage:0,td:{m:\"null\",sm:\"null\"}}"},"builder":"antimatter:tool/saw","output":[{"item":"antimatter:saw"}]}
