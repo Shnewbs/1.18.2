@@ -1,0 +1,10 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "antimatter_shared:liquid_aluminium",
+    "antimatter_shared:flowing_liquid_aluminium",
+    "kubejs_tfc:antimatter_shared_liquid_aluminium",
+    "kubejs_tfc:antimatter_shared_flowing_liquid_aluminium"
+  ]
+}
