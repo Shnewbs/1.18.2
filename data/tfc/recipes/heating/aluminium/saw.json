@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was created by tfch",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "kubejs:saw_head_aluminium"
+  },
+  "result_fluid": {
+    "fluid": "antimatter_shared:liquid_aluminium",
+    "amount": 100
+  },
+  "temperature": 660
+}
