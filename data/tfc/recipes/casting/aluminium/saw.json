@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/saw_blade_mold"
+  },
+  "fluid": {
+    "ingredient": "antimatter_shared:liquid_aluminium",
+    "amount": 144
+  },
+  "result": {
+    "item": "kubejs:saw_head_aluminium"
+  },
+  "break_chance": 0.1
+}
