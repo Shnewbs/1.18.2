@@ -1,3 +1,8 @@
+settings.logAddedRecipes = true
+settings.logRemovedRecipes = true
+settings.logSkippedRecipes = false
+settings.logErroringRecipes = true
+
 onEvent('recipes', event => {
     var TFCStoneTypes = ["andesite","basalt","chalk","chert","claystone","conglomerate","dacite","diorite","dolomite","gabbro","gneiss","granite","limestone","marble","phyllite","quartzite","rhyolite","schist","shale","slate"]
 
@@ -71,6 +76,7 @@ event.custom({"type": "create:splashing","ingredients": [{ "item": `antimatter_s
                             event.remove({id: `antimatter:${material}_trichloride_dust_small`})
                             event.remove({id: `antimatter:di${material}_trioxide_dust_tiny`})
                             event.remove({id: `antimatter:di${material}_trioxide_dust_small`})
+                            event.remove({id: `antimatter:${material}_plate`})
 
 
                             //======================================RECIPE REMOVAL END======================================\\
@@ -111,7 +117,7 @@ if (Platform.isLoaded('tfc')) {
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 16), `antimatter_shared:dust_tiny_${material}`, 660).id(`tfc.heat.${material}.tiny.dust`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 16), `antimatter_shared:nugget_${material}`, 660).id(`tfc.heat.${material}.nugget`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 32), `antimatter_shared:dust_small_${material}`, 660).id(`tfc.heat.${material}.small.dust`)
-event.recipes.tfc.heating(Fluid.of(`minecraft:water`, 64), `antimatter_shared:raw_ore_${material}`, 660).id(`tfc.heat.${material}.raw`)
+event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 64), `antimatter_shared:raw_ore_${material}`, 660).id(`tfc.heat.${material}.raw`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 84), `antimatter_shared:crushed_${material}`, 660).id(`tfc.heat.${material}.crushed`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 104), `antimatter_shared:dust_impure_${material}`, 660).id(`tfc.heat.${material}.impure`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 124), `antimatter_shared:crushed_purified_${material}`, 660).id(`tfc.heat.${material}.crushed.pure`)
@@ -133,9 +139,10 @@ event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 1152)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 2304), `antimatter_shared:wire_${material}_normal`, 660).id(`tfc.heat.${material}.wire.normal`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 4608), `antimatter_shared:wire_${material}_large`, 660).id(`tfc.heat.${material}.wire.large`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 9216), `antimatter_shared:wire_${material}_huge`, 660).id(`tfc.heat.${material}.wire.huge`)
+// event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 100), `antimatter_shared:ingot_${material}`, 660).id(`tfc.heat.${material}.ingot`)
 
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `kubejs:${material}_double_ingot`, 660).id(`tfc.heat.${material}.double.ingot`)
-event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:hammer_head_${material}`, 660).id(`tfc.heat.${material}.hammer.head`)
+// event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:hammer_head_${material}`, 660).id(`tfc.heat.${material}.hammer.head`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 288), `kubejs:screwdriver_head_${material}`, 660).id(`tfc.heat.${material}.screwdriver.head`)
 // event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 144), `kubejs:chisel_head_${material}`, 660).id(`tfc.heat.${material}.chisel.head`)
 event.recipes.tfc.heating(Fluid.of(`antimatter_shared:liquid_${material}`, 864), `kubejs:wire_cutter_head_${material}`, 660).id(`tfc.heat.${material}.wire.cutter.head`)
@@ -194,19 +201,6 @@ event.shaped(Item.of('antimatter:saw', '{Damage:0,td:{m:"aluminium",sm:"obsidian
 //====================================================================================================================================================================\\
 //                                                               Terrafirmacraft - Casting                                                                            \\
 //====================================================================================================================================================================\\
-// 144mb of ${material} in a mold produces an ${material}; the mold has a 50% chance of breaking
-
-
-
-event.recipes.tfc.casting(`kubejs:saw_head_${material}`, 'tfc:ceramic/saw_blade_mold', FluidStackIngredient.of(`antimatter_shared:flowing_liquid_${material}`, 144), 1.0).id(`casting.${material}.saw.head123123`)
-event.recipes.tfc.casting(`kubejs:hammer_head_${material}`, 'tfc:ceramic/hammer_head_mold', FluidStackIngredient.of(`antimatter_shared:liquid_${material}`, 144), 1.0).id(`casting.${material}.hammer.head`)
-event.recipes.tfc.casting(`kubejs:hoe_head_${material}`, 'tfc:ceramic/hoe_head_mold', FluidStackIngredient.of(`kubejs_tfc:antimatter_shared_liquid_${material}`, 144), 1.0).id(`casting.${material}.hoe.head`)
-event.recipes.tfc.casting(`kubejs:hoe_head_${material}`, 'tfc:ceramic/hoe_head_mold', FluidStackIngredient.of(`kubejs:antimatter_shared_liquid_${material}`, 144), 1.0).id(`casting.${material}.hoe.head23123`)
-
-
-event.recipes.tfc.casting(`antimatter_shared:block_${material}`, 'kubejs:shape.clay.mold.block', FluidStackIngredient.of(`kubejs_tfc:aluminium`, 1296), 1.0).id(`casting.${material}.block`)
-
-
 //====================================================================================================================================================================\\
 //                                                               Terrafirmacraft - Welding                                                                            \\
 //====================================================================================================================================================================\\
@@ -221,7 +215,6 @@ event.recipes.tfc.welding(`kubejs:${material}_double_ingot`, [`antimatter_shared
 
 // work a ingot into a plate 
 event.recipes.tfc.anvil(ItemStackProvider.of(`antimatter_shared:plate_${material}`, {type:'tfc:add_heat', temperature:380}), `kubejs:${material}_double_ingot`, [`hit_last`,`hit_second_last`,`hit_third_last`]).applyBonus()
-
 
 //====================================================================================================================================================================\\
         
