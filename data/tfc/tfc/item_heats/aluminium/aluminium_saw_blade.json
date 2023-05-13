@@ -1,4 +1,10 @@
 {
+  "conditions": [
+  {
+    "type": "forge:mod_loaded",
+    "modid": "ae2"
+  }
+],
   "__comment__": "This file was automatically created by mcresources",
   "ingredient": {
     "item": "kubejs:saw_head_aluminium"

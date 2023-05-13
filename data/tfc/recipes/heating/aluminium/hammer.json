@@ -1,4 +1,10 @@
 {
+  "conditions": [
+  {
+    "type": "forge:mod_loaded",
+    "modid": "tfc"
+  }
+],
   "__comment__": "This file was created by tfch",
   "type": "tfc:heating",
   "ingredient": {

@@ -1,4 +1,10 @@
 {
+  "conditions": [
+  {
+    "type": "forge:mod_loaded",
+    "modid": "tfc"
+  }
+],
   "__comment__": "This file was automatically created by mcresources",
   "type": "tfc:casting",
   "mold": {
